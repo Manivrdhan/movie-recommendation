@@ -1,0 +1,5968 @@
+.product_menu_info {
+    background-color: #fff;
+    -webkit-box-shadow: 3px 4px 5px rgba(35, 31, 32, .1);
+    -moz-box-shadow: 3px 4px 5px rgba(35, 31, 32, .1);
+    box-shadow: 3px 4px 5px rgba(35, 31, 32, .1);
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+.product_menu_info .et_pb_text {
+    text-align: center;
+}
+
+.product_menu_info ul {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.product_menu_info ul li {
+    margin: 0 20px;
+    padding: 0;
+    display: inline-block;
+    vertical-align: top;
+    color: #333333;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-family: 'robotobold';
+}
+
+.product_menu_info ul li a {
+    color: #333333;
+    display: inline-block;
+    padding: 30px 0;
+    position: relative;
+}
+
+.product_menu_info ul li.active a:after,
+.product_menu_info ul li a:hover:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 3px;
+    content: "";
+    background: #de4534;
+}
+
+.product_menu_info .getstarted_btn {
+    display: inline-block;
+    vertical-align: middle;
+    color: #fff;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-family: 'robotobold';
+    -webkit-border-radius: 22px/22px 22px 23px 23px;
+    -moz-border-radius: 22px/22px 22px 23px 23px;
+    border-radius: 22px/22px 22px 23px 23px;
+    background-color: #de4534;
+    padding: 10px 30px;
+    cursor: pointer;
+    display: none;
+}
+
+.services_menu_info.product_menu_info .et_pb_text {
+    text-align: left;
+}
+
+.services_menu_info .getstarted_btn {
+    -webkit-border-radius: 16px/18px;
+    -moz-border-radius: 16px/18px;
+    border-radius: 16px/18px;
+    background-color: #e6231f;
+    -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, .4);
+    -moz-box-shadow: 0 2px 5px rgba(0, 0, 0, .4);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .4);
+    padding: 8px 30px !important;
+}
+
+.services_menu_info .services_menu_left {
+    float: left;
+}
+
+.services_menu_info .services_menu_right {
+    float: right;
+    padding: 33px 0 0 0;
+}
+
+.services_menu_info .services_menu_right .letushelp_btn {
+    display: inline-block;
+    text-decoration: none;
+    color: #e92320;
+    font-size: 16px;
+    padding: 0 0 0 25px;
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/letushelp_bg.png) 0 0 no-repeat;
+}
+
+.innerpage_section_title h2 {
+    margin: 0 0 20px 0;
+    padding: 0 0 20px 0 !important;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #333333;
+    font-family: 'robotolight';
+    position: relative;
+    text-align: center;
+}
+
+.innerpage_section_title h2:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 134px;
+    height: 4px;
+    margin: 0 auto;
+    background: #ea2321;
+    content: "";
+}
+
+.innerpage_section_title h1 {
+    margin: 0 0 20px 0;
+    padding: 0 0 20px 0 !important;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #333333;
+    font-family: 'robotolight';
+    position: relative;
+    text-align: center;
+}
+
+.innerpage_section_title h1:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 134px;
+    height: 4px;
+    margin: 0 auto;
+    background: #ea2321;
+    content: "";
+}
+
+.aboutus_txt .innerpage_section_title h2 {
+    text-align: left;
+}
+
+.aboutus_txt .innerpage_section_title h2:after {
+    margin: 0;
+}
+
+.missionstatement_info {
+    background-color: #fff;
+    -webkit-box-shadow: 0 2px 7px rgba(21, 21, 22, .09);
+    -moz-box-shadow: 0 2px 7px rgba(21, 21, 22, .09);
+    box-shadow: 0 2px 7px rgba(21, 21, 22, .09);
+    padding: 30px 50px !important;
+    margin: 30px 0 0 0;
+    text-align: center;
+}
+
+.missionstatement_info h4 {
+    font-size: 30px;
+    color: #333333;
+    font-family: 'robotobold';
+    margin: 0 0 20px 0;
+    padding: 0 0 20px 0 !important;
+    position: relative;
+}
+
+.missionstatement_info h4:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 134px;
+    height: 4px;
+    margin: 0 auto;
+    background: #ea2321;
+    content: "";
+}
+
+.myvalues {
+    background-color: #fff;
+    -webkit-box-shadow: 0 2px 7px rgba(21, 21, 22, .09);
+    -moz-box-shadow: 0 2px 7px rgba(21, 21, 22, .09);
+    box-shadow: 0 2px 7px rgba(21, 21, 22, .09);
+    padding: 30px 50px !important;
+    margin: 30px 0 0 0;
+}
+
+.myvalues h4 {
+    font-size: 30px;
+    color: #333333;
+    font-family: 'robotobold';
+    margin: 0 0 20px 0;
+    padding: 0 0 20px 0 !important;
+    position: relative;
+    text-align: center;
+}
+
+.myvalues h4:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 134px;
+    height: 4px;
+    margin: 0 auto;
+    background: #ea2321;
+    content: "";
+}
+
+.myvalues ul {
+    vertical-align: middle;
+    margin: 0;
+    padding-bottom: 5px;
+}
+
+.myvalues ul li {
+    margin: 0 20px;
+    padding-top: 5px;
+    vertical-align: top;
+    color: #333333;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+.futurewith_txt .innerpage_section_title h2 {
+    text-transform: uppercase;
+    font-family: 'robotobold';
+    text-align: left;
+}
+
+.futurewith_txt p {
+    padding: 0;
+    margin: 0 0 25px 0;
+}
+
+.ourteam_info .ourteam_list {
+    background-color: #fff;
+    -webkit-box-shadow: 0 5px 7px rgba(15, 16, 16, .15);
+    -moz-box-shadow: 0 5px 7px rgba(15, 16, 16, .15);
+    box-shadow: 0 5px 7px rgba(15, 16, 16, .15);
+    padding: 40px 30px;
+}
+
+.ourteam_info .ourteam_list .et_pb_main_blurb_image {
+    width: 79px;
+}
+
+.ourteam_info .et_pb_blurb_position_left .et_pb_blurb_container,
+.ourteam_info .et_pb_blurb_position_right .et_pb_blurb_container {
+    vertical-align: middle;
+}
+
+.ourteam_info .ourteam_list .et_pb_blurb_container h4 {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    color: #333333;
+    text-transform: uppercase;
+    font-family: 'robotobold';
+}
+
+.csr_test_career_info .csr_test_career_list {
+    width: 100%;
+    color: #fff;
+    min-height: 275px;
+    padding: 50px 30px;
+}
+
+.csr_test_career_info .csr_test_career_list.csr_info {
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/csr_test_career_img1.jpg) 0 0 no-repeat;
+    background-size: cover;
+}
+
+.csr_test_career_info .csr_test_career_list.careers_info {
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/csr_test_career_img2.jpg) 0 0 no-repeat;
+    background-size: cover;
+}
+
+.csr_test_career_info .csr_test_career_list.testimon_info {
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/csr_test_career_img3.jpg) 0 0 no-repeat;
+    background-size: cover;
+}
+
+.csr_test_career_info .csr_test_career_list h5 {
+    margin: 0 0 15px 0;
+    padding: 0 0 20px 0;
+    font-size: 20px;
+    color: #fff;
+    position: relative;
+    font-family: 'robotobold';
+}
+
+.csr_test_career_info .csr_test_career_list h5:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    content: "";
+    background: #ea2321;
+    width: 84px;
+    height: 4px;
+}
+
+.csr_test_career_info .csr_test_career_list p {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+
+.csr_test_career_info .csr_test_career_list .csr_test_career_btn {
+    display: inline-block;
+    margin: 30px 0 0 0;
+    font-size: 16px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fff;
+    font-family: 'robotobold';
+    -webkit-border-radius: 16px/18px;
+    -moz-border-radius: 16px/18px;
+    border-radius: 16px/18px;
+    background-color: #e6231f;
+    -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, .4);
+    -moz-box-shadow: 0 2px 5px rgba(0, 0, 0, .4);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .4);
+    padding: 8px 20px;
+}
+
+.csr_banner_info {
+    padding: 200px 0 !important;
+}
+
+.csr_banner_list {
+    max-width: 580px;
+    background: #ed3237;
+    padding: 120px 40px !important;
+}
+
+.csr_banner_list h2 {
+    margin: 0;
+    padding: 0 0 35px 0;
+    font-size: 42px;
+    text-transform: uppercase;
+    position: relative;
+    font-family: 'robotolight';
+    color: #fff;
+    line-height: 46px;
+}
+
+.csr_banner_list h2:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    content: "";
+    width: 380px;
+    height: 3px;
+    background: #fff;
+}
+
+.testimonials_info .et_pb_row {
+    border-bottom: 1px solid #c2c2c2;
+}
+
+.testimonials_info .slidewizard-wrapper {
+    background: none;
+    border: 0;
+    box-shadow: none;
+    margin: 0 auto;
+}
+
+.testimonials_info .themes-default .no-image,
+.testimonials_info .themes-default .slide-description-wrapper {
+    background: none;
+}
+
+.testimonials_info .themes-default .no-image {
+    display: block;
+}
+
+.testimonials_info .themes-default .no-image .slide-description-wrapper {
+    position: relative;
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/testimonials_bg.png) 10px 0 no-repeat;
+    padding: 10px 10px 0 60px;
+}
+
+.testimonials_info .themes-default .slide-title {
+    text-align: left;
+}
+
+.testimonials_info .slidewizard-wrapper a {
+    margin: 10px 0 0 0;
+    padding: 0;
+    font-size: 16px;
+    color: #333;
+    font-family: 'robotobold';
+    text-align: left;
+    text-decoration: none;
+}
+
+.testimonials_info .slidewizard-wrapper a:hover {
+    text-decoration: none;
+}
+
+.testimonials_info .themes-default .slide-text {
+    color: #333333;
+    font-family: 'robotolight';
+    font-size: 16px;
+    line-height: 20px;
+    text-align: left;
+}
+
+.testimonials_info .themes-default.slidewizard-show-readmore .slide-more-link {
+    font-family: 'robotolight';
+    font-size: 16px;
+    line-height: 20px;
+    color: red;
+}
+
+.testimonials_info .themes-default .slidewizard-navigation {
+    display: none !important;
+}
+
+.testimonials_info .slidewizard-direction-left.themes-default .slidewizard-controls {
+    width: 9px;
+    height: 17px;
+    margin: -8.5px 0 0 0;
+    z-index: 5;
+}
+
+.testimonials_info .slidewizard-direction-left.themes-default .slidewizard-controls-next,
+.testimonials_info .slidewizard-direction-left.themes-default .slidewizard-controls-next:hover {
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/testimonials_next.png) 0 0 no-repeat;
+    right: 0px;
+}
+
+.testimonials_info .slidewizard-direction-left.themes-default .slidewizard-controls-prev,
+.testimonials_info .slidewizard-direction-left.themes-default .slidewizard-controls-prev:hover {
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/testimonials_prev.png) 0 0 no-repeat;
+    left: 0px;
+}
+
+.testimonials_info .themes-default .slidewizard-controls-prev span,
+.testimonials_info .themes-default .slidewizard-controls-next span {
+    display: none;
+}
+
+.testimonials_list {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.testimonials_list .testimonials_listinner {
+    width: 100%;
+}
+
+.testimonials_list .testimonials_listimg {
+    float: left;
+    width: 150px;
+}
+
+.testimonials_list .testimonials_listimg img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+
+.testimonials_list .testimonials_listcont {
+    padding: 0 0 0 180px;
+    color: #333333;
+    font-family: 'robotolight';
+}
+
+.testimonials_list .testimonials_listcont .testimonials_listcontinner {
+    position: relative;
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/testimonials_bg.png) 0 0 no-repeat;
+    padding: 10px 0 0 50px;
+}
+
+.testimonials_list p {
+    margin: 0;
+    padding: 0;
+}
+
+.testimonials_list .testimonials_listcont h5 {
+    margin: 10px 0 0 0;
+    padding: 0;
+    color: #333;
+    font-family: 'robotobold';
+}
+
+.testimonials_list .swiper-button-next,
+.testimonials_list .swiper-button-prev {
+    width: 9px;
+    height: 17px;
+    margin: -8.5px 0 0 0;
+}
+
+.testimonials_list .swiper-button-next {
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/testimonials_next.png) 0 0 no-repeat;
+    right: -50px;
+}
+
+.testimonials_list .swiper-button-prev {
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/testimonials_prev.png) 0 0 no-repeat;
+    left: -50px;
+}
+
+.services_testimonials_info.testimonials_info .slidewizard-wrapper {
+    border: 1px dashed #8e8e8e;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    position: relative;
+    overflow: visible;
+    margin: 10px auto 0 auto;
+}
+
+.services_testimonials_info.testimonials_info .slidewizard-wrapper:after {
+    position: absolute;
+    top: -27.5px;
+    left: 15px;
+    width: 55px;
+    height: 55px;
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/services_testimonials_bg.png) center center no-repeat #fff;
+    content: "";
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+}
+
+.services_testimonials_info.testimonials_info .themes-default .no-image {
+    display: table;
+}
+
+.services_testimonials_info.testimonials_info .themes-default .no-image .slide-description-wrapper {
+    background: none;
+    padding: 30px;
+}
+
+.services_testimonials_info.testimonials_info .slidewizard-direction-left.themes-default .slidewizard-controls-next,
+.services_testimonials_info.testimonials_info .slidewizard-direction-left.themes-default .slidewizard-controls-next:hover {
+    right: 15px;
+}
+
+.services_testimonials_info.testimonials_info .slidewizard-direction-left.themes-default .slidewizard-controls-prev,
+.services_testimonials_info.testimonials_info .slidewizard-direction-left.themes-default .slidewizard-controls-prev:hover {
+    left: 15px;
+}
+
+.careers_banner.et_pb_slider .et_pb_slide {
+    background-size: 100% !important;
+    height: 80vh;
+}
+
+.page-id-20456 .product_menu_info {
+    margin: 10px 0 0 0;
+}
+
+.rewardingcareer_txt {
+    text-align: center;
+    width: 100%;
+}
+
+.rewardingcareer_txt .innerpage_section_title h2 {
+    text-transform: capitalize;
+    font-family: 'robotobold';
+}
+
+.rewardingcareer_list .et_pb_main_blurb_image {
+    width: 75px;
+}
+
+.rewardingcareer_list .et_pb_blurb h4 {
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #333333;
+    font-family: 'robotobold';
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+
+.futurewith_txt .innerpage_section_title h2 {
+    text-transform: uppercase;
+    font-family: 'robotobold';
+    text-align: left;
+}
+
+.futurewith_txt .innerpage_section_title h2:after {
+    margin: 0;
+}
+
+.futurewith_txt p {
+    padding: 0;
+    margin: 0 0 25px 0;
+}
+
+.futurewith_list .et_pb_main_blurb_image {
+    width: 68px;
+    margin: 0 auto 30px auto;
+}
+
+.futurewith_list .et_pb_blurb_container h4 {
+    margin: 0 0 15px 0 !important;
+    padding: 0;
+    font-size: 16px;
+    color: #333333;
+    font-family: 'robotobold';
+    text-transform: uppercase;
+}
+
+.futurewith_list .et_pb_blurb_container p {
+    margin: 0;
+    padding: 0;
+    color: #666666;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.our_csr_sponsorships_info .innerpage_section_title h2 {
+    font-size: 16px;
+    color: #333333;
+    font-family: 'robotobold';
+}
+
+.our_csr_sponsorships_info .innerpage_section_title h2:after {
+    width: 84px;
+}
+
+.valuesthat_list {
+    text-align: center;
+    color: #333333;
+    background-color: #fff;
+    -webkit-box-shadow: 0 5px 7px rgba(15, 16, 16, .15);
+    -moz-box-shadow: 0 5px 7px rgba(15, 16, 16, .15);
+    box-shadow: 0 5px 7px rgba(15, 16, 16, .15);
+    padding: 20px 10px !important;
+    min-height: 215px;
+    width: 100%;
+}
+
+.valuesthat_list h5 {
+    margin: 0 0 20px 0;
+    padding: 0 0 20px 0 !important;
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #333333;
+    font-family: 'robotobold';
+    position: relative;
+    text-align: center;
+}
+
+.valuesthat_list h5:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 90px;
+    height: 2px;
+    margin: 0 auto;
+    background: #ea2321;
+    content: "";
+}
+
+.valuesthat_list p {
+    font-size: 14px !important;
+    line-height: 24px;
+}
+
+.ubuntu_txt h5 {
+    margin: 0 0 20px 0;
+    padding: 0;
+    font-size: 25px;
+    color: #666666;
+    font-style: italic;
+    font-family: 'robotobold';
+}
+
+.futurewith_list .rewards_txt .et_pb_blurb_container h4,
+.futurewith_list .rewards_txt .et_pb_blurb_container p {
+    color: #841e1f;
+}
+
+.yourcareerpath_list {
+    width: 100%;
+}
+
+.yourcareerpath_list ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.yourcareerpath_list ul li {
+    margin: 20px 0;
+    padding: 40px 80px;
+    background-color: #fff;
+    -webkit-box-shadow: 0 14px 14px rgba(15, 16, 16, .1);
+    -moz-box-shadow: 0 14px 14px rgba(15, 16, 16, .1);
+    box-shadow: 0 14px 14px rgba(15, 16, 16, .1);
+}
+
+.yourcareerpath_list ul li h6 {
+    margin: 0 0 20px 0;
+    padding: 0 0 20px 0 !important;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #333333;
+    font-family: 'robotobold';
+    position: relative;
+}
+
+.yourcareerpath_list ul li h6:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 84px;
+    height: 4px;
+    background: #ea2321;
+    content: "";
+}
+
+.yourcareerpath_list ul li p {
+    margin: 0;
+    padding: 0;
+    color: #666666;
+}
+
+.career_testimonials .et_pb_slide {
+    background-color: inherit !important;
+    padding: 0;
+}
+
+.career_testimonials .et_pb_slide h2 {
+    font-size: 25px;
+    line-height: 40px;
+    display: none;
+}
+
+.career_testimonials {
+    margin-bottom: 0 !important;
+}
+
+.career_testimonials .et_pb_slide .et_pb_slide_content p {
+    font-size: 14px;
+}
+
+.career_testimonials .et_pb_slide_description {
+    padding: 0 !important;
+    text-shadow: none;
+}
+
+.career_testimonials .et_pb_slide_content {
+    color: #666;
+}
+
+.career_testimonials .et_pb_slide_content p a {
+    color: #2ea3f2;
+}
+
+.career_testimonials .et_pb_container {
+    min-height: 145px !important;
+}
+
+.career_testimonials .et-pb-controllers {
+    position: inherit;
+    padding-top: 40px;
+}
+
+.career_testimonials .et-pb-controllers a {
+    background-color: #ccc !important;
+}
+
+.career_testimonials .et-pb-controllers .et-pb-active-control {
+    background-color: #666 !important;
+}
+
+.ourphilosophy_right_txt {
+    width: 100%;
+    background: #ebebeb;
+    padding: 30px !important;
+}
+
+.ourphilosophy_right_txt .ourphilosophy_right_txtimg {
+    margin: 0 auto 25px auto;
+    max-width: 160px;
+    border: 7px solid #fff;
+}
+
+.ourphilosophy_right_txt .ourphilosophy_right_txtimg img {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+.ourphilosophy_right_txt h5 {
+    margin: 20px 0 0 0;
+    padding: 0;
+    text-align: right;
+    font-size: 14px;
+    color: #000000;
+    text-transform: uppercase;
+    font-family: 'robotobold';
+}
+
+.ourphilosophy_right_txt h5 span {
+    font-size: 12px;
+    font-family: 'robotoregular';
+    text-transform: capitalize;
+}
+
+.ourphilosophy_listinfo {
+    width: 100%;
+}
+
+.ourphilosophy_listinfo .knowmoreschool_info,
+.ourphilosophy_listinfo .milestones_info {
+    margin: 0 0 50px 0;
+}
+
+.ourphilosophy_listinfo h5 {
+    margin: 0 0 15px 0;
+    padding: 0 0 15px 0;
+    position: relative;
+    font-size: 23px;
+    color: #58595b;
+    text-transform: uppercase;
+    font-family: 'robotobold';
+}
+
+.ourphilosophy_listinfo h5:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    content: "";
+    background: #e92520;
+    width: 84px;
+    height: 4px;
+}
+
+.ourphilosophy_listinfo .milestones_info ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.ourphilosophy_listinfo .milestones_info ul li {
+    margin: 0;
+    padding: 0 0 0 10px;
+    font-size: 20px;
+    color: #58595b;
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/milestones_bg.png) 0 11px no-repeat;
+}
+
+.ourphilosophy_listinfo .milestones_info ul li strong {
+    font-family: 'robotobold';
+}
+
+.ourphilosophy_listinfo .moredetails_info h6 {
+    margin: 0 0 15px 0;
+    padding: 0;
+    font-family: 'robotobold';
+    font-size: 15px;
+    color: #58595b;
+    text-transform: uppercase;
+}
+
+.ourphilosophy_listinfo .moredetails_info p {
+    padding: 0 0 10px 0 !important;
+}
+
+.ourphilosophy_listinfo .moredetails_info a {
+    display: inline-block;
+    color: #58595b;
+    font-size: 14px;
+    text-decoration: none;
+    padding-left: 20px;
+}
+
+.ourphilosophy_listinfo .moredetails_info .web_icon a {
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/web_icon.png) 0 4px no-repeat;
+}
+
+.ourphilosophy_listinfo .moredetails_info .fb_icon a {
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/fb_icon.png) 0 4px no-repeat;
+}
+
+.border_bottom .et_pb_row:last-child {
+    border-bottom: 1px solid #ebebeb;
+}
+
+#ourphilosophy,
+#knowmoreschool,
+#healachild,
+#y_path {
+    padding: 50px 0 0 0;
+}
+
+.innerpage_header {
+    text-align: center;
+    padding: 30px 0 !important;
+}
+
+.innerpage_header h6 {
+    margin: 0 0 10px 0;
+    padding: 0;
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'robotobold';
+    text-align: center;
+}
+
+.innerpage_header h1 {
+    margin: 0 0 10px 0;
+    padding: 0;
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'robotobold';
+    text-align: center;
+}
+
+.innerpage_header p {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+}
+
+.footer_top_imglist {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0 0 0;
+}
+
+.footer_top_imglist ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+
+.footer_top_imglist ul li {
+    margin: 15px 10px;
+    padding: 0;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.footer_top_imglist ul li img {
+    width: 70%;
+}
+
+.footer_top_imglist .section_title h4 {
+    margin: 20px 0;
+    padding-bottom: 15px;
+    text-transform: uppercase;
+}
+
+.noticetoclients_info h6 {
+    margin: 0 0 20px 0;
+    padding: 0;
+    font-size: 16px;
+    color: #333333;
+    font-family: 'robotobold';
+    text-transform: uppercase;
+}
+
+.noticetoclients_info p {
+    font-family: 'robotolight';
+    line-height: 30px;
+}
+
+.noticetoclients_info strong {
+    color: #333333;
+    font-family: 'robotobold';
+}
+
+.noticetoclients_info ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.noticetoclients_info ul li {
+    margin: 0 0 15px 0;
+    padding: 0 0 0 20px;
+}
+
+.sidebar_getintouch_infolist {
+    padding-right: 0;
+    border: 0;
+}
+
+.sidebar_getintouch_info {
+    width: 100%;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background-color: #fff;
+    -webkit-box-shadow: 0 3px 11px rgba(55, 55, 55, .35);
+    -moz-box-shadow: 0 3px 11px rgba(55, 55, 55, .35);
+    box-shadow: 0 3px 11px rgba(55, 55, 55, .35);
+    padding: 20px;
+    margin-bottom: 0 !important;
+}
+
+.sidebar_getintouch_info .widgettitle {
+    font-size: 16px;
+    color: #333333;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'robotobold';
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar_getintouch br {
+    display: none;
+}
+
+.sidebar_getintouch ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.sidebar_getintouch ul:after {
+    clear: both;
+    display: block;
+    content: "";
+}
+
+.sidebar_getintouch ul li {
+    margin: 10px 0 0 0;
+    padding: 0;
+    background: #fff;
+    float: left;
+    width: 100%;
+}
+
+.sidebar_getintouch ul li label.error {
+    color: #f00;
+    font-size: 12px;
+}
+
+.sidebar_getintouch ul li input[type="text"],
+.sidebar_getintouch ul li input[type="email"],
+.sidebar_getintouch ul li input[type="password"],
+.sidebar_getintouch ul li input[type="tel"] {
+    width: 100%;
+    border: 1px solid #d4d4d4;
+    height: 36px;
+    padding: 0 10px;
+    font-size: 14px;
+    color: #000000;
+    font-family: 'robotoregular';
+}
+
+.sidebar_getintouch ul li.phonenumber select {
+    width: 33%;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    font-family: 'robotoregular';
+    border: 1px solid #d4d4d4;
+    height: 36px;
+}
+
+.sidebar_getintouch ul li.phonenumber input {
+    width: 65%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.sidebar_getintouch ul li input.error,
+.sidebar_getintouch ul li select.error,
+.sidebar_getintouch ul li textarea.error {
+    border: 1px solid #f00;
+}
+
+.sidebar_getintouch .iagree_txt {
+    font-size: 11px;
+    color: #666666;
+    margin: 10px 0 0 0;
+}
+
+.sidebar_getintouch .iagree_txt input {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.sidebar_getintouch .iagree_txt p {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+}
+
+.sidebar_getintouch .submit_btn {
+    text-align: center;
+    margin: 10px 0 0 0;
+}
+
+.sidebar_getintouch .submit_btn input {
+    width: 138px;
+    height: 30px;
+    -webkit-border-radius: 13px/15px;
+    -moz-border-radius: 13px/15px;
+    border-radius: 13px/15px;
+    background-color: #e6231f;
+    -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, .4);
+    -moz-box-shadow: 0 2px 5px rgba(0, 0, 0, .4);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .4);
+    border: 0;
+    font-size: 14px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'robotobold';
+    cursor: pointer;
+}
+
+.formtemplate_formlist {
+    width: 100%;
+    padding: 20px !important;
+    -webkit-border-radius: 5px/6px;
+    -moz-border-radius: 5px/6px;
+    border-radius: 5px/6px;
+    background-color: #fff;
+    -webkit-box-shadow: 0 3px 11px rgba(55, 55, 55, .35);
+    -moz-box-shadow: 0 3px 11px rgba(55, 55, 55, .35);
+    box-shadow: 0 3px 11px rgba(55, 55, 55, .35);
+}
+
+.formtemplate_formlist p {
+    margin: 0;
+    padding: 0;
+}
+
+.formtemplate_formlist h6 {
+    margin: 0 0 5px 0;
+    padding: 0;
+    text-align: center;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #333333 !important;
+    font-family: 'robotobold';
+}
+
+.formtemplate_formlist br {
+    display: none;
+}
+
+.formtemplate_formlist ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.formtemplate_formlist ul:after {
+    clear: both;
+    display: block;
+    content: "";
+}
+
+.formtemplate_formlist ul li {
+    margin: 25px 0 0 0;
+    padding: 0;
+    float: left;
+    width: 100%;
+}
+
+.formtemplate_formlist ul li label.error {
+    color: #f00;
+    font-size: 12px;
+    text-transform: initial;
+    font-weight: normal;
+}
+
+.formtemplate_formlist ul li input[type="text"],
+.formtemplate_formlist ul li input[type="email"],
+.formtemplate_formlist ul li input[type="password"],
+.formtemplate_formlist ul li input[type="tel"],
+.formtemplate_formlist ul li textarea {
+    width: 100%;
+    border: 1px solid #c2c2c2;
+    background: #fff;
+    height: 35px;
+    padding: 0 10px;
+    font-size: 14px;
+    color: #000000;
+    font-family: 'robotolight';
+}
+
+.formtemplate_formlist ul li textarea {
+    height: 115px;
+    padding: 10px;
+}
+
+.formtemplate_formlist ul li.firstname {}
+
+.formtemplate_formlist ul li.lastname {}
+
+.formtemplate_formlist ul li.phonenumber select {
+    width: 33%;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    font-family: 'robotolight';
+    border: 1px solid #c2c2c2;
+    height: 35px;
+    margin-bottom: 20px;
+}
+
+.formtemplate_formlist ul li.phonenumber input {
+    width: 65%;
+    display: inline-block;
+    vertical-align: middle;
+    float: right !important;
+}
+
+.formtemplate_formlist ul li input.error,
+.formtemplate_formlist ul li select.error,
+.formtemplate_formlist ul li textarea.error {
+    border: 1px solid #f00;
+}
+
+.formtemplate_formlist .iagree_txt {
+    font-size: 11px;
+    color: #666666;
+    margin: 10px 0 0 0;
+    font-family: 'robotolight';
+}
+
+.formtemplate_formlist .iagree_txt input {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.formtemplate_formlist .iagree_txt p {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 11px;
+    margin-left: 5px;
+    line-height: 0;
+}
+
+.formtemplate_formlist .submit_btn {
+    text-align: center;
+    margin: 10px 0 0 0;
+}
+
+.formtemplate_formlist .submit_btn input {
+    width: 138px;
+    height: 30px;
+    -webkit-border-radius: 13px/15px;
+    -moz-border-radius: 13px/15px;
+    border-radius: 13px/15px;
+    background-color: #e6231f;
+    -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, .4);
+    -moz-box-shadow: 0 2px 5px rgba(0, 0, 0, .4);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .4);
+    border: 0;
+    font-size: 16px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'robotobold';
+    cursor: pointer;
+}
+
+.yguru_formlist {
+    -webkit-border-radius: 4px/5px;
+    -moz-border-radius: 4px/5px;
+    border-radius: 4px/5px;
+    background-color: #fff;
+    -webkit-box-shadow: 2px 2px 11px rgba(55, 55, 55, .35);
+    -moz-box-shadow: 2px 2px 11px rgba(55, 55, 55, .35);
+    box-shadow: 2px 2px 11px rgba(55, 55, 55, .35);
+    max-width: 360px;
+}
+
+.formtemplate_formlist.yguru_formlist h6 {
+    position: relative;
+    padding: 0 0 10px 0;
+}
+
+.formtemplate_formlist.yguru_formlist h6:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    content: "";
+    background: #e92421;
+    width: 46px;
+    height: 2px;
+    text-transform: capitalize;
+}
+
+.formtemplate_formlist.yguru_formlist .submit_btn input {
+    text-transform: capitalize;
+}
+
+.visas_formlist {
+    margin-top: 50px;
+    float: right;
+}
+
+.noticetoclients_info .formtemplate_formlist ul li {
+    margin: 10px 0 0 0;
+}
+
+.about_banner_info {
+    padding: 150px 0 !important;
+}
+
+.about_banner_listinfo {
+    text-align: center;
+    color: #fff;
+    width: 650px;
+    margin-top: 134px;
+}
+
+.about_banner_listinfo h6 {
+    margin: 0 0 40px 0;
+    padding: 0 0 30px 0;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: 'robotobold';
+    color: #fff;
+    position: relative;
+}
+
+.about_banner_listinfo h6:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    content: "";
+    background: #fff;
+    width: auto;
+    height: 1px;
+}
+
+.about_banner_listinfo h1 {
+    margin: 0 0 40px 0;
+    padding: 0 0 30px 0;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: 'robotobold';
+    color: #fff;
+    position: relative;
+}
+
+.about_banner_listinfo h1:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    content: "";
+    background: #fff;
+    width: auto;
+    height: 1px;
+}
+
+.about_banner_listinfo ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.about_banner_listinfo ul li {
+    margin: 0 13px;
+    padding: 0;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.about_banner_listinfo ul li h5 {
+    margin: 0 0 10px 0;
+    padding: 0 0 12px 0;
+    font-size: 20px;
+    font-family: 'robotobold';
+    position: relative;
+    color: #fff;
+    min-width: 70px;
+}
+
+.about_banner_listinfo ul li h5:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    background: #fff;
+    width: 67px;
+    height: 1px;
+    content: "";
+}
+
+.about_banner_listinfo ul li p {
+    margin: 0;
+    padding: 0;
+    font-size: 13px;
+    font-family: 'robotolight';
+    line-height: 20px;
+}
+
+.about_banner_listinfo .enquirenow_btn {
+    display: inline-block;
+    -webkit-border-radius: 13px/15px;
+    -moz-border-radius: 13px/15px;
+    border-radius: 13px/15px;
+    background-color: #e6231f;
+    -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, .4);
+    -moz-box-shadow: 0 2px 5px rgba(0, 0, 0, .4);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .4);
+    padding: 5px 20px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-family: 'robotobold';
+    margin: 25px 0 0 0;
+}
+
+.about_banner_listinfo .getstarted_btn {
+    margin: 25px auto 0 auto;
+    background-color: #e6231f;
+    -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, .4);
+    -moz-box-shadow: 0 2px 5px rgba(0, 0, 0, .4);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .4);
+}
+
+.section_title {
+    text-align: center;
+}
+
+.section_title h4 {
+    margin: 0 0 35px 0;
+    padding: 0 0 25px 0;
+    font-size: 30px;
+    color: #333333;
+    font-family: 'robotobold';
+    position: relative;
+    text-transform: uppercase;
+}
+
+.section_title h4:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    content: "";
+    width: 84px;
+    height: 6px;
+    background: #eb2322;
+}
+
+.section_title h1 {
+    margin: 0 0 35px 0;
+    padding: 0 0 25px 0;
+    font-size: 30px;
+    color: #333333;
+    font-family: 'robotobold';
+    position: relative;
+}
+
+.section_title h1:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    content: "";
+    width: 84px;
+    height: 6px;
+    background: #eb2322;
+}
+
+.section_title h2 {
+    margin: 0 0 35px 0;
+    padding: 0 0 25px 0;
+    font-size: 30px;
+    color: #333333;
+    font-family: 'robotobold';
+    position: relative;
+}
+
+.section_title h2:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    content: "";
+    width: 84px;
+    height: 6px;
+    background: #eb2322;
+}
+
+.aboutus_txt .section_title,
+.australiaimmigration_info .section_title {
+    padding: 0;
+}
+
+.aboutus_txt .section_title:after,
+.australiaimmigration_info .section_title:after,
+.page-id-20785 .section_title:after,
+.page-id-20796 .section_title:after,
+.page-id-19675 .section_title:after {
+    display: none;
+}
+
+.citycontact_text h6 {
+    margin: 0 0 20px 0;
+    padding: 0;
+    font-size: 16px;
+    color: #333333;
+    font-family: 'robotobold';
+}
+
+.citycontact_text strong {
+    color: #333333;
+    font-family: 'robotobold';
+}
+
+.citycontact_text p {
+    color: #333333;
+    font-family: 'robotolight';
+}
+
+.map_img {
+    margin: 0 0 20px 0;
+}
+
+.contact_whatsapp {
+    vertical-align: text-top;
+    padding-right: 10px
+}
+
+.refundpolicy_txt li {
+    margin: 0 0 10px 0;
+}
+
+.australiaimmigration_info strong,
+.australiaimmigration_info b {
+    font-family: 'robotobold';
+    color: #333;
+}
+
+.product_banner_info {
+    text-align: center;
+    color: #fff;
+}
+
+.product_banner_info h1 {
+    margin: 0 0 30px 0;
+    padding: 0 0 25px 0;
+    text-align: center;
+    font-size: 18pt;
+    text-transform: uppercase;
+    color: #fff;
+    font-family: 'robotobold';
+    position: relative;
+}
+
+.product_banner_info h1:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 133px;
+    height: 10px;
+    background: #ea2321;
+    content: "";
+}
+
+.product_banner_info p {
+    margin: 0;
+    padding: 0;
+    font-size: 28px;
+    line-height: 36px;
+    font-family: 'robotolight';
+    text-align: center;
+}
+
+.location_speak_list {
+    text-align: center;
+    margin: 100px 0 0 0;
+}
+
+.location_speak_list ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.location_speak_list ul li {
+    margin: 0 20px;
+    padding: 0;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 22px;
+    color: #fff;
+    font-family: 'robotolight';
+}
+
+.location_speak_list ul li img {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.location_speak_list ul li .location_speak_list_btn {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 22px;
+    color: #fff;
+    font-family: 'robotolight';
+    -webkit-border-radius: 19px;
+    -moz-border-radius: 19px;
+    border-radius: 19px;
+    border: 2px solid #fff;
+    padding: 5px 20px;
+    transition: all ease 0.5s;
+    -webkit-transition: all ease 0.5s;
+    -moz-transition: all ease 0.5s;
+    cursor: pointer;
+}
+
+.location_speak_list ul li .location_speak_list_btn:hover {
+    background: #fff;
+    color: #333;
+}
+
+.overview_list .et_pb_row {
+    padding: 20px 0 !important;
+}
+
+.overview_img img {
+    -webkit-box-shadow: 3px 4px 5px rgba(35, 31, 32, .6);
+    -moz-box-shadow: 3px 4px 5px rgba(35, 31, 32, .6);
+    box-shadow: 3px 4px 5px rgba(35, 31, 32, .6);
+}
+
+.overview_list p {
+    margin: 0 0 25px 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: 'robotolight';
+    color: #231f20;
+}
+
+.overview_list ul {
+    margin: 0;
+    padding-bottom: 15px;
+    list-style: none;
+}
+
+.overview_list ul li {
+    margin: 0 0 5px 0;
+    padding: 0 0 0 20px;
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/benefits_listbg.png) 0 10px no-repeat;
+}
+
+.eligibility_list h4,
+.process_list h4,
+.benefits_list h4,
+.testimonials_info h4,
+.overview_list h4,
+.overview_list h2,
+.details_info h4,
+.pricing_info h4 {
+    margin: 0 0 20px 0;
+    padding: 0 0 20px 0 !important;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #333333;
+    font-family: 'robotolight';
+    position: relative;
+    text-align: center;
+}
+
+.eligibility_list h4:after,
+.process_list h4:after,
+.benefits_list h4:after,
+.testimonials_info h4:after,
+.overview_list h4:after,
+.overview_list h2:after,
+.details_info h4:after,
+.pricing_info h4:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 134px;
+    height: 4px;
+    margin: 0 auto;
+    background: #ea2321;
+    content: "";
+}
+
+.eligibility_list.et_pb_section,
+.process_list.et_pb_section,
+.benefits_list.et_pb_section,
+.testimonials_info.et_pb_section,
+.overview_list.et_pb_section,
+.product_contact_info.et_pb_section,
+.details_info.et_pb_section,
+.pricing_info.et_pb_section {
+    padding: 10px 0 !important;
+}
+
+.getstarted_btn {
+    color: #fff;
+    font-size: 17px;
+    text-transform: uppercase;
+    font-family: 'robotobold';
+    display: block;
+    -webkit-border-radius: 22px/22px 22px 23px 23px;
+    -moz-border-radius: 22px/22px 22px 23px 23px;
+    border-radius: 22px/22px 22px 23px 23px;
+    background-color: #de4534;
+    padding: 10px 30px !important;
+    cursor: pointer;
+    max-width: 190px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.visas_banner_info {
+    width: 100%;
+}
+
+.visas_banner_cont {
+    padding: 120px 0 30px 0;
+}
+
+.visas_banner_info h2 {
+    margin: 0 0 20px 0;
+    padding: 0 0 35px 0;
+    font-size: 40px;
+    line-height: 66px;
+    color: #ffffff;
+    font-family: 'robotolight';
+    position: relative;
+    text-transform: uppercase;
+}
+
+.visas_banner_info h2:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 110px;
+    height: 8px;
+    background: #fff;
+    content: "";
+}
+
+.visas_banner_info h1 {
+    margin: 0 0 20px 0;
+    padding: 0 0 35px 0;
+    font-size: 40px;
+    line-height: 66px;
+    color: #ffffff;
+    font-family: 'robotolight';
+    position: relative;
+    text-transform: uppercase;
+}
+
+.visas_banner_info h1:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 110px;
+    height: 8px;
+    background: #ea2421;
+    content: "";
+}
+
+.visas_banner_info h4 {
+    margin: 0;
+    padding: 0;
+    color: #ffffff;
+    font-size: 26px;
+    line-height: 36px;
+    font-family: 'robotolight';
+}
+
+.visas_banner_cont p {
+    color: #fff;
+    line-height: 24px;
+}
+
+.band_score_info p {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 20px;
+    line-height: 36px;
+    color: #666666;
+    font-family: 'robotolight';
+}
+
+.chooseclass_tabsinfo {
+    position: relative;
+    z-index: 1;
+}
+
+.chooseclass_info {
+    background: none;
+    border: none;
+    border-radius: 0;
+}
+
+.chooseclass_info .container {
+    padding: 0 !important;
+}
+
+.chooseclass_info ul.chooseclass_tablist .container {
+    text-align: center;
+}
+
+.chooseclass_info ul.chooseclass_tablist {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.chooseclass_info ul.chooseclass_tablist li {
+    margin: 0 10px;
+    padding: 0;
+    background: none !important;
+    color: #000000;
+    font-size: 19px;
+    text-transform: uppercase;
+    font-family: 'robotolight';
+    border-bottom: 2px solid rgba(0, 0, 0, 0);
+    display: inline-block;
+    vertical-align: top;
+}
+
+.chooseclass_info ul.chooseclass_tablist li.r-tabs-state-active {
+    border-bottom: 2px solid #eb312e;
+}
+
+.chooseclass_info ul.chooseclass_tablist li a {
+    color: #000 !important;
+    text-shadow: none !important;
+    font-size: 19px !important;
+}
+
+.chooseclass_info .r-tabs-panel {
+    background: #f5f5f5;
+    padding: 40px 20px;
+}
+
+.chooseclass_list h4 {
+    margin: 0 0 30px 0;
+    padding: 0;
+    font-size: 27px;
+    line-height: 30px;
+    color: #000000;
+    text-align: center;
+    font-family: 'robotoregular';
+}
+
+.chooseclass_list ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+
+.page-id-8274 .chooseclass_list ul li {
+    max-width: 23%;
+}
+
+.chooseclass_list ul li {
+    margin: 0 10px;
+    padding: 50px 20px;
+    max-width: 29%;
+    display: inline-block;
+    vertical-align: top;
+    background: #fff;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+}
+
+.chooseclass_list ul li h5 {
+    margin: 0 0 40px 0;
+    padding: 0 0 12px 0;
+    font-size: 19px;
+    color: #000000;
+    text-transform: uppercase;
+    position: relative;
+    font-family: 'robotobold';
+}
+
+.chooseclass_list ul li h5:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    content: "";
+    width: 20px;
+    height: 2px;
+    background: #eb312e;
+}
+
+.chooseclass_list ul li h6 {
+    margin: 0 0 20px 0;
+    padding: 0;
+    font-size: 16px;
+    color: #000000;
+    line-height: 23px;
+    font-family: 'robotolight';
+}
+
+.chooseclass_list ul li .old_price {
+    font-size: 17px;
+    color: #333333;
+    text-decoration: line-through;
+    text-decoration-color: #ea2421;
+    margin: 0 0 10px 0;
+}
+
+.chooseclass_list ul li .old_price span,
+.chooseclass_list ul li .new_price span {
+    color: #ea2421;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 5px 0 0;
+}
+
+.chooseclass_list ul li .new_price {
+    font-size: 28px;
+    color: #333333;
+    margin: 0 0 40px 0;
+}
+
+.chooseclass_list ul li p {
+    font-size: 16px;
+    line-height: 22px;
+    color: #666666;
+    font-family: 'robotolight';
+}
+
+.chooseclass_list ul li .getstarted_btn {
+    font-size: 20px;
+    text-transform: capitalize;
+    -webkit-box-shadow: 1px 2px 2px rgba(24, 24, 25, .9);
+    -moz-box-shadow: 1px 2px 2px rgba(24, 24, 25, .9);
+    box-shadow: 1px 2px 2px rgba(24, 24, 25, .9);
+    font-family: 'robotolight';
+    padding: 6px 30px !important;
+    max-width: inherit;
+    display: inline-block;
+    background: #ea2421;
+    margin: 30px 0 0px 0;
+    width: 180px;
+    max-width: 100%;
+}
+
+.chooseclass_list ul li .getstarted_btn a {
+    color: #fff !important;
+}
+
+.chooseclass_tablist .r-tabs-state-active .r-tabs-anchor {
+    background-color: #ccc !important;
+}
+
+.chooseclass_list .table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+.chooseclass_list .table thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+.chooseclass_list .table tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+.chooseclass_list .table>tbody>tr>td,
+.chooseclass_list .table>tbody>tr>th,
+.chooseclass_list .table>tfoot>tr>td,
+.chooseclass_list .table>tfoot>tr>th,
+.chooseclass_list .table>thead>tr>td,
+.chooseclass_list .table>thead>tr>th {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+}
+
+.chooseclass_list .table td {
+    text-align: center;
+    border: 1px solid #afafaf;
+    border-collapse: collapse;
+}
+
+.chooseclass_list .table thead th {
+    background-color: #ed4f4c;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+}
+
+.chooseclass_list .table th {
+    text-align: center;
+}
+
+.chooseclass_list .table tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+.chooseclass_list .table .table>thead>tr>th {
+    color: #fff;
+}
+
+.live-class-i {
+    float: left;
+}
+
+#main-content .chooseclass_list .container:before,
+#main-content .chooseclass_tablist .container:before {
+    display: none;
+}
+
+.space {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.bat_btn {
+    width: 240px;
+    height: 30px;
+    margin: 20px auto;
+    background-color: #ea2421;
+    color: #FFFFFF;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.bat_btn a {
+    color: #FFFFFF;
+    line-height: 30px;
+}
+
+.wsp-container ul:after {
+    clear: both;
+    display: block;
+    content: "";
+}
+
+.wsp-container ul li {
+    width: 33%;
+    padding-right: 30px;
+}
+
+.wsp-container ul li ul {
+    padding-left: 30px;
+    padding-bottom: 0;
+}
+
+.wsp-container ul li ul li {
+    width: 100%;
+    float: none;
+}
+
+.wsp-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.wsp-container {
+    clear: both;
+    margin-bottom: 40px;
+    display: block;
+}
+
+.product_contact_info {
+    text-align: center;
+}
+
+.product_contact_info .et_pb_text {
+    text-align: center;
+}
+
+.product_contact_info .pro_contactus_btn {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 20px 0 0;
+}
+
+.product_contact_info .pro_contactus_btn a {
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-family: 'robotobold';
+    display: inline-block;
+    -webkit-border-radius: 22px/22px 22px 23px 23px;
+    -moz-border-radius: 22px/22px 22px 23px 23px;
+    border-radius: 22px/22px 22px 23px 23px;
+    background-color: #de4534;
+    padding: 10px 30px;
+}
+
+.product_contact_info ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.product_contact_info ul li {
+    margin: 0 15px;
+    padding: 0;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 22px;
+    color: #333333;
+    font-family: 'robotolight';
+}
+
+.product_contact_info ul li img {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 10px 0 0;
+}
+
+.product_contact_info ul li .product_contact_btn {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 22px;
+    color: #333333;
+    font-family: 'robotolight';
+    -webkit-border-radius: 19px;
+    -moz-border-radius: 19px;
+    border-radius: 19px;
+    border: 2px solid #333333;
+    padding: 5px 20px;
+    transition: all ease 0.5s;
+    -webkit-transition: all ease 0.5s;
+    -moz-transition: all ease 0.5s;
+    cursor: pointer;
+}
+
+.product_contact_info ul li .product_contact_btn:hover {
+    background: #333333;
+    color: #fff;
+}
+
+.tabs_listinnercont ul li {
+    list-style: none;
+}
+
+.tabs_listinnercont .tabs ul li {
+    margin-right: 30px;
+    float: left;
+    color: #000;
+}
+
+.tabs_listinnercont .tabs ul li span {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.tabs_listinnercont .tabs ul li input[type="radio"] {
+    margin: 0 6px 0 0;
+    display: inline-block;
+}
+
+.tabs_listinnercont .tabs ul {
+    display: inline-block;
+    padding: 15px 0;
+}
+
+.tabs_listinnercont .tabs p {
+    padding: 0 !important;
+}
+
+.tabs_listinnercont .tabs h3 {
+    margin: 0 0 10px 0;
+}
+
+.tabs_listinnercont .tabs .submit_btn {
+    margin-top: 20px;
+}
+
+.tabs_listinnercont .tabs .dob_info {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.tabs_listinnercont #tabs2 h3 {
+    text-align: center;
+}
+
+.tabs_listinnercont .tabs .iagree_txt {
+    margin: 0 0 0 160px;
+}
+
+.modal-backdrop.in {
+    display: none;
+}
+
+.modal.fade.in {
+    top: 15%;
+    background: rgba(0, 0, 0, 0.7);
+}
+
+.australia_updates {
+    max-width: 1170px;
+    width: 100%;
+    margin: 0px auto;
+}
+
+.australia_updates button {
+    border: 1px solid #ccc;
+    text-shadow: inherit;
+    box-shadow: inherit;
+}
+
+.australia_updates button p,
+.australia_updates button p:last-of-type,
+.australia_updates button p:first-of-type {
+    padding-bottom: 0;
+}
+
+.australia_updates .level1 {
+    margin-bottom: 15px;
+}
+
+.australia_updates .level1 button {
+    color: #ec262b;
+    font-size: 20px;
+    border: 0px solid #e5e5e5;
+    background: none;
+    width: 100%;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.australia_updates .level2 button {
+    background: #f0f0f0;
+    color: #000;
+    font-size: 18px;
+    padding: 15px;
+    border-radius: 0;
+}
+
+.australia_updates .level2 button:after {
+    left: 20px;
+    top: 16px;
+}
+
+.australia_updates .level3 button:after {
+    left: inherit;
+    right: 20px;
+    top: 16px;
+}
+
+.australia_updates .level2 button p {
+    padding-left: 30px;
+    text-transform: uppercase;
+}
+
+.australia_updates .level3 button p {
+    padding-left: 0px;
+    text-transform: inherit;
+    font-weight: 600;
+    color: #333333;
+}
+
+.australia_updates .level3 button {
+    background: transparent;
+    color: #000;
+    font-size: 16px;
+}
+
+.australia_updates .level1.open {}
+
+.australia_updates .level1_cont button {
+    padding-left: 15px;
+}
+
+.australia_updates .level1_cont .level2,
+.australia_updates .level1_cont .level3 {
+    border-bottom: 1px solid #c9c9c9;
+}
+
+.australia_updates .level2 .level2_cont {
+    padding-left: 45px;
+    padding-right: 45px;
+}
+
+.australia_updates .level3_cont {
+    padding-left: 0px;
+}
+
+.australia_updates .level1_cont .level3:last-child {
+    border-bottom: 0px solid #c9c9c9;
+}
+
+.australia_updates .level1_cont .level3:first-child {
+    border-bottom: 1px solid #c9c9c9;
+}
+
+.australia_updates .level3 button {
+    padding-left: 0px;
+}
+
+.australia_updates .level3_cont p {
+    font-size: 14px;
+    line-height: 20px;
+    color: #000;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.australia_updates p:last-of-type {
+    padding-bottom: 30px;
+    border-bottom: 0px;
+}
+
+.australia_updates .level2_cont p {
+    border-bottom: none !important;
+}
+
+.australia_updates p:first-of-type {
+    padding-bottom: 15px;
+}
+
+.level3.open button p {
+    color: #c9100c;
+}
+
+.australia_updates .level3 button {
+    position: relative;
+    padding-right: 40px;
+}
+
+.australia_updates .level3 button:after {
+    content: "";
+    position: absolute;
+    right: 10px;
+    top: 12px;
+    font-size: 25px;
+    font-weight: 200;
+    color: #444;
+    height: 15px;
+    width: 24px;
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/inner_down.png) center center no-repeat;
+    background-size: 50%;
+}
+
+.australia_updates .level3.open button:after {
+    -webkit-transform: rotate(-180deg);
+    -ms-transform: rotate(-180deg);
+    transform: rotate(-180deg);
+    background-position: center;
+}
+
+.australia_updates .level2 .level2_cont {
+    padding-left: 45px;
+    padding-right: 45px;
+}
+
+[data-accordion] [data-content] [data-content] {
+    background: #f0f0f0;
+}
+
+[data-accordion] [data-content] {
+    overflow: hidden;
+    max-height: 0;
+}
+
+[data-accordion] {
+    line-height: 1;
+}
+
+[data-control],
+[data-content]>* {
+    border-bottom: 1px solid #888;
+    padding: 10px;
+}
+
+[data-content] [data-accordion] {
+    border: 0;
+    padding: 0;
+}
+
+[data-accordion] [data-control] {
+    position: relative;
+    padding-left: 40px;
+}
+
+[data-accordion]>[data-control]:after {
+    content: "";
+    position: absolute;
+    left: 10px;
+    top: 12px;
+    height: 15px;
+    width: 15px;
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/down.png) top center no-repeat;
+}
+
+[data-accordion].open>[data-control]:after {
+    background-position: 0 bottom;
+}
+
+.yadmissionproduct_banner_info {
+    background-position: center top;
+}
+
+.yadmissionproduct_banner_cont {
+    padding: 100px 0;
+}
+
+.yadmissionproduct_banner_cont h2 {
+    margin: 0 0 25px 0;
+    padding: 0 0 40px 0;
+    font-size: 45px;
+    line-height: 54px;
+    font-family: 'robotobold';
+    position: relative;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.yadmissionproduct_banner_cont h2:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 110px;
+    height: 11px;
+    background: #ea2421;
+    content: "";
+}
+
+.yadmissionproduct_banner_cont h4 {
+    margin: 0 0 25px 0;
+    padding: 0;
+    color: #ffffff;
+    font-size: 27px;
+    line-height: 33px;
+    font-family: 'robotolight';
+}
+
+.yadmissionproduct_banner_cont .getstarted_btn {
+    -webkit-box-shadow: 1px 2px 2px rgba(24, 24, 25, .9);
+    -moz-box-shadow: 1px 2px 2px rgba(24, 24, 25, .9);
+    box-shadow: 1px 2px 2px rgba(24, 24, 25, .9);
+    font-size: 14px;
+    color: #fff;
+    background: #ea2421;
+    display: inline-block;
+    max-width: inherit;
+}
+
+.howwehelp_list .et_pb_main_blurb_image {
+    position: relative;
+    margin: 0 0 20px 0;
+    padding: 0 0 25px 0;
+}
+
+.howwehelp_list .et_pb_main_blurb_image:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    content: "";
+    width: 92px;
+    height: 1px;
+    background: #ea2321;
+}
+
+.howwehelp_list h4 {
+    margin: 0;
+    padding: 0;
+    font-size: 17px;
+    line-height: 27px;
+    color: #000000;
+    font-family: 'robotolight';
+    text-align: center;
+}
+
+.rightdecision_list {
+    width: 100%;
+}
+
+.rightdecision_list h4,
+.yadmission_whychooseus_list h4 {
+    margin: 0 0 30px 0;
+    padding: 0;
+    font-size: 26px;
+    line-height: 37px;
+    color: #333333;
+    font-family: 'robotobold';
+}
+
+.rightdecision_list ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.rightdecision_list ul li {
+    margin: 0 0 20px 0;
+    padding: 0 0 0 45px;
+    font-size: 17px;
+    color: #000000;
+    font-family: 'robotolight';
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/rightdecision_list_bg.png) 0 0 no-repeat;
+}
+
+.yadmission_whychooseus_list ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.yadmission_whychooseus_list ul li {
+    margin: 0 0 10px 0;
+    padding: 0;
+    font-size: 17px;
+    color: #000000;
+    font-family: 'robotolight';
+}
+
+.yadmission_whychooseus_list ul li:after {
+    clear: both;
+    display: block;
+    content: "";
+}
+
+.yadmission_whychooseus_list ul li .yadmission_whychooseus_img {
+    float: left;
+    width: 35px;
+}
+
+.yadmission_whychooseus_list ul li .yadmission_whychooseus_cont {
+    padding: 0 0 0 50px;
+}
+
+.yadmission_relatedproduct_info .yadmission_product_list h4 {
+    margin: 0 0 15px 0;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 10px 0;
+    border: 1px dashed #666666;
+}
+
+.yadmission_relatedproduct_info .yadmission_product_list ul li {
+    text-align: left;
+    font-size: 14px;
+    margin: 0 0 20px 0;
+    padding: 0 0 0 15px;
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/yadmission_relatedproduct_bg.png) 0 4px no-repeat;
+}
+
+.yadmission_howitworks_list {
+    width: 100%;
+    margin: 40px 0 0 0;
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/yadmission_howitworks_list_bg1.png) 0 29px no-repeat, url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/yadmission_howitworks_list_bg2.png) left 34px repeat-x, url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/yadmission_howitworks_list_bg3.png) right 29px no-repeat;
+}
+
+.yadmission_howitworks_list ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+
+.yadmission_howitworks_list ul li {
+    margin: 0;
+    padding: 0 10px;
+    text-align: left;
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+}
+
+.yadmission_howitworks_list ul li .yadmission_howitworks_img {
+    margin: 0 0 20px 0;
+}
+
+.yadmission_howitworks_list ul li h6 {
+    margin: 0 0 20px 0;
+    padding: 0;
+    font-size: 20px;
+    color: #333333;
+    font-family: 'robotobold';
+}
+
+.yadmission_howitworks_list ul li p {
+    margin: 0 0 20px 0;
+    padding: 0 0 0 15px;
+    font-size: 14px;
+    color: #000000;
+    line-height: 20px;
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/yadmission_howitworks_bg.png) 0 6px no-repeat;
+}
+
+.credentials_info {
+    width: 100%;
+}
+
+.credentials_list {
+    width: 100%;
+}
+
+.credentials_list ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.credentials_list ul li {
+    margin: 0 0 10px 0;
+    padding: 0;
+    -webkit-border-radius: 6px/5px;
+    -moz-border-radius: 6px/5px;
+    border-radius: 6px/5px;
+    border: 1px solid #606060;
+}
+
+.credentials_list ul li h5 {
+    margin: 0;
+    padding: 10px 30px 10px 20px;
+    cursor: pointer;
+    font-size: 18px;
+    color: #333333;
+    font-family: 'robotobold';
+    position: relative;
+    -webkit-border-radius: 6px/5px;
+    -moz-border-radius: 6px/5px;
+    border-radius: 6px/5px;
+}
+
+.credentials_list ul li h5 .credentials_list_arrow {
+    position: absolute;
+    top: 13px;
+    right: 15px;
+    width: 10px;
+    height: 12px;
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/credentials_list_bg.png) 0 0 no-repeat;
+}
+
+.credentials_list ul li .credentials_cont {
+    padding: 10px 20px;
+    font-size: 15px;
+    line-height: 20px;
+    color: #333333;
+    display: none;
+}
+
+.credentials_list ul li.open_credentials_list h5 {
+    background: #db3e3c;
+    color: #fff;
+}
+
+.credentials_list ul li.open_credentials_list h5 .credentials_list_arrow {
+    background-position: 0 bottom;
+}
+
+.credentials_cont_right {
+    width: 100%;
+    text-align: center;
+    color: #000000;
+    border-left: 2px dashed #000;
+    padding: 0 30px;
+}
+
+.credentials_cont_right h5 {
+    margin: 0 0 20px 0;
+    padding: 0 0 20px 0;
+    font-size: 20px;
+    color: #000000;
+    text-transform: uppercase;
+    font-family: 'robotobold';
+    position: relative;
+}
+
+.credentials_cont_right h5:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    content: "";
+    width: 80px;
+    height: 1px;
+    background: #db3e3c;
+}
+
+.credentials_cont_right h4 {
+    margin: 0;
+    padding: 0;
+    font-size: 43px;
+    color: #000000;
+    font-family: 'robotobold';
+}
+
+.credentials_cont_right p {
+    margin: 0 0 30px 0;
+    padding: 0;
+    font-size: 15px;
+    font-family: 'robotolight';
+    line-height: 21px;
+}
+
+.credentials_cont_right img {
+    display: inline-block;
+    margin: 0 0 20px 0;
+}
+
+.valuepacks_list {
+    background-color: #f1f1f1;
+    -webkit-box-shadow: 0 5px 7px rgba(15, 16, 16, .15);
+    -moz-box-shadow: 0 5px 7px rgba(15, 16, 16, .15);
+    box-shadow: 0 5px 7px rgba(15, 16, 16, .15);
+    padding: 50px 30px;
+    text-align: center;
+    min-height: 300px;
+}
+
+.valuepacks_list h5 {
+    margin: 0 0 5px 0;
+    padding: 0 0 15px 0;
+    color: #333333;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    font-family: 'robotobold';
+}
+
+.valuepacks_list h5:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    content: "";
+    width: 84px;
+    height: 4px;
+    background: #eb2322;
+}
+
+.valuepacks_list h4 {
+    margin: 0 0 20px 0;
+    padding: 0;
+    font-size: 27px;
+    text-align: center;
+    font-family: 'robotobold';
+}
+
+.valuepacks_list h4 b {
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.valuepacks_list .year_price_btn {
+    -webkit-border-radius: 16px/18px;
+    -moz-border-radius: 16px/18px;
+    border-radius: 16px/18px;
+    background-color: #e6231f;
+    -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, .4);
+    -moz-box-shadow: 0 2px 5px rgba(0, 0, 0, .4);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .4);
+    font-size: 16px;
+    color: #fff;
+    font-family: 'robotobold';
+    display: inline-block;
+    vertical-align: middle;
+    padding: 8px 20px;
+    text-transform: uppercase;
+}
+
+.yadmission_banner_info {
+    width: 100%;
+}
+
+.yadmission_banner_cont {
+    padding: 120px 0 70px 0;
+}
+
+.yadmission_banner_info h2 {
+    margin: 0 0 25px 0;
+    padding: 0 0 40px 0;
+    font-size: 45px;
+    line-height: 54px;
+    color: #ffffff;
+    font-family: 'robotobold';
+    position: relative;
+    text-transform: uppercase;
+}
+
+.yadmission_banner_info h2:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 110px;
+    height: 11px;
+    background: #ea2421;
+    content: "";
+}
+
+.yadmission_banner_info h4 {
+    margin: 0 0 25px 0;
+    padding: 0;
+    color: #ffffff;
+    font-size: 27px;
+    line-height: 33px;
+    font-family: 'robotolight';
+}
+
+.table_info table {
+    border: 1px solid #ddd;
+}
+
+.table_info table thead tr {
+    color: #ffffff;
+    background-color: #e92421;
+}
+
+.table_info table thead tr th {
+    color: #fff !important;
+    text-transform: none !important;
+}
+
+.table_info table tr td {
+    padding: 12px;
+    line-height: 1.42857143;
+    vertical-align: middle;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+.table>tbody>tr>td,
+.table>tbody>tr>th,
+.table>tfoot>tr>td,
+.table>tfoot>tr>th,
+.table>thead>tr>td,
+.table>thead>tr>th {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+}
+
+td {
+    text-align: center;
+    border: 1px solid #afafaf;
+    border-collapse: collapse;
+}
+
+thead th {
+    background-color: #ed4f4c;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+}
+
+th {
+    text-align: center;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+.yx_five .yx_five_inner {
+    padding: 20px;
+    text-align: justify;
+    background-color: #ffffff;
+    width: 72%;
+    margin: 0 auto;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    -moz-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow: 3px 3px 5px 6px #ccc;
+}
+
+.yx_five .yx_five_inner h3 {
+    color: #e92320;
+    padding-bottom: 30px;
+}
+
+.yx_five .yx_five_inner p {
+    color: #333333;
+    line-height: 24px;
+    font-size: 14px;
+    padding-bottom: 16px;
+}
+
+.yx_five .yx_btn {
+    width: 240px;
+    height: 38px;
+    text-transform: uppercase;
+    display: block;
+    -webkit-border-radius: 22px/22px 22px 23px 23px;
+    -moz-border-radius: 22px/22px 22px 23px 23px;
+    border-radius: 22px/22px 22px 23px 23px;
+    background-color: #ea2521;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin: 0 auto;
+    max-width: 140px;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 60px;
+}
+
+.yx_five .nav-pills>li>a {
+    font-size: 52px !important;
+    color: #000000 !important;
+    text-shadow: none !important;
+    padding: 0 !important;
+    background: none !important;
+    margin: 0 42px;
+}
+
+.yx_five .nav-pills>li>a b {
+    width: 27px;
+    height: 27px;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    background: #f3e1cd;
+    display: block;
+    margin: 20px auto 0 auto;
+}
+
+.yx_five ul {
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/howitworks_tab_line.png) left bottom 12px repeat-x;
+    position: absolute;
+}
+
+.yx_five ul li {
+    background-color: inherit !important;
+}
+
+.yx_five .tab-content {
+    padding-top: 40px;
+}
+
+.yx_five .r-tabs-panel {
+    background: none !important;
+    border: none !important;
+    padding-top: 140px;
+}
+
+.yx_five .r-tabs-state-active b {
+    border: 8px solid #ea2522;
+}
+
+.yx_five .nav-pills li:after {
+    border: 2px solid #ccc;
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: #ccc;
+}
+
+.things_next_prev .things_prev_btn,
+.things_next_prev .things_next_btn {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    cursor: pointer;
+    top: 50%;
+    margin-top: 40px;
+    width: 30px;
+    height: 30px;
+    list-style: none;
+}
+
+.things_next_prev .things_prev_btn {
+    left: 8%;
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/tab_prev_arrow.png) 0 0 no-repeat;
+}
+
+.things_next_prev .things_next_btn {
+    right: 8%;
+    background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/tab_next_arrow.png) 0 0 no-repeat;
+}
+
+.submit_forminfo input[type="text"],
+.submit_forminfo input[type="email"],
+.submit_forminfo input[type="password"] {
+    float: left;
+    max-width: 350px;
+    width: 100% !important;
+    font-family: 'robotolight';
+    padding: 0 10px;
+    width: 100%;
+    border: 1px solid #c2c2c2;
+    height: 35px;
+    padding: 0 10px;
+    font-size: 14px;
+    margin: 0 0 10px 0;
+    color: #000000;
+    font-family: 'robotolight';
+}
+
+.submit_forminfo {
+    text-align: center;
+}
+
+.submit_forminfo label {
+    display: inline-block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    float: left;
+    width: 150px;
+    margin: 0 15px 0 0;
+    padding: 0;
+    text-align: right;
+    line-height: 30px;
+    font-family: 'robotolight';
+    color: #000;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.germany_form_info {
+    text-align: center;
+    margin: 0 auto;
+    background: #fff;
+    padding: 40px 0px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -webkit-box-shadow: 0 2px 9px rgba(23, 23, 24, .3);
+    -moz-box-shadow: 0 2px 9px rgba(23, 23, 24, .3);
+    box-shadow: 0 2px 9px rgba(23, 23, 24, .3);
+}
+
+.form_second_section {
+    max-width: 550px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 20px 30px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -webkit-box-shadow: 0 2px 9px rgba(23, 23, 24, .3);
+    -moz-box-shadow: 0 2px 9px rgba(23, 23, 24, .3);
+    box-shadow: 0 2px 9px rgba(23, 23, 24, .3);
+}
+
+.form_questions .sol_btn ul {
+    list-style: none;
+    padding: 10px 0;
+    display: inline-block;
+}
+
+.form_questions .sol_btn ul li {
+    float: left;
+    margin-right: 10px;
+}
+
+.form_questions .sol_btn ul li input[type=radio] {
+    -webkit-appearance: radio;
+    margin-left: 0;
+    margin-right: 5px;
+}
+
+.germany_form_info .success_result {
+    color: green;
+}
+
+.germany_form_info .failure_result {
+    color: red;
+}
+
+.germany_form_sec .success_result,
+.germany_form_sec .failure_result {
+    padding: 10px 0 0;
+    max-width: 650px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 30px 30px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -webkit-box-shadow: 0 2px 9px rgba(23, 23, 24, .3);
+    -moz-box-shadow: 0 2px 9px rgba(23, 23, 24, .3);
+    box-shadow: 0 2px 9px rgba(23, 23, 24, .3);
+    text-align: center;
+}
+
+.form_questions select {
+    display: inherit;
+    border: 1px solid #c2c2c2;
+    height: 35px;
+    padding: 0 10px;
+    font-size: 14px;
+    margin: 0 0 10px 0;
+    color: #000000;
+    width: 350px;
+    margin-top: 15px;
+}
+
+.form_second_section input[type="text"],
+.submit_forminfo input[type="email"],
+.submit_forminfo input[type="password"] {
+    max-width: 350px;
+    width: 100% !important;
+    font-family: 'robotolight';
+    padding: 0 10px;
+    width: 100%;
+    border: 1px solid #c2c2c2;
+    height: 35px;
+    padding: 0 10px;
+    font-size: 14px;
+    margin: 0 0 10px 0;
+    color: #000000;
+}
+
+@media(max-width:1200px) {
+    .main_header_info .container,
+    .container,
+    .et_pb_row,
+    .et_pb_fullwidth_section .et_pb_row {
+        padding-right: 20px !important;
+        padding-left: 20px !important;
+    }
+    .yguru_banner_cont h2 {
+        font-size: 28px;
+        line-height: 38px;
+    }
+}
+
+@media(max-width:1100px) {
+    .home_country_info .home_country_tablist li a {
+        min-width: 120px;
+    }
+    .footer_top_info .footer_top_cont ul li p br {
+        display: none;
+    }
+    .product_menu_info ul li {
+        margin: 0 10px;
+        font-size: 12px;
+    }
+    .careersourteam_list {
+        padding: 20px !important;
+    }
+    .rewards_life_info .knowmore_btn {
+        font-size: 14px;
+    }
+    .immigration_list .applynow_btn {
+        padding: 90px 0 0 0;
+        min-height: 217px;
+    }
+    .features_list ul li .features_cont {
+        padding: 0 0 0 100px;
+    }
+    .overview_list {
+        margin: 0 !important;
+        padding: 10px 20px !important;
+    }
+    .overview_list p {
+        padding: 0 20px;
+        margin: 0;
+    }
+    .overview_list p strong {
+        margin-top: 20px;
+        margin-bottom: 10px;
+        display: inline-block;
+    }
+    .overview_list ul {
+        padding: 0 20px !important;
+    }
+    .product_contact_info ul li {
+        margin-bottom: 20px;
+    }
+    .product_contact_info .et_pb_row {
+        padding: 0 !important;
+    }
+    .product_contact_info .et_pb_row:last-child .et_pb_column:last-child {
+        padding: 0;
+        margin-bottom: 0;
+    }
+    .entry-content table,
+    body.et-pb-preview #main-content .container table {
+        width: 100% !important;
+    }
+    .post-4274 h1 {
+        margin-top: 20px;
+    }
+}
+
+@media(max-width:980px) {
+    .notifications_info {
+        margin: 0;
+    }
+    .notifications_info .notifications_icon {
+        height: 32px;
+        background-position: center center;
+        padding: 0 10px 0 10px;
+    }
+    #et_top_search {
+        margin: 0 5px 0 0;
+    }
+    .yguru_banner_cont h1 {
+        margin: 0 0 25px 0;
+        padding: 0 0 40px 0;
+    }
+    .home_country_info.r-tabs,
+    .visas_country_info.r-tabs,
+    .chooseclass_info.r-tabs {
+        border: 1px solid #b0b0b0;
+        border-top: 0;
+    }
+    .chooseclass_info.r-tabs {
+        margin: 0 20px;
+    }
+    .home_country_info.r-tabs .r-tabs-accordion-title .r-tabs-anchor,
+    .visas_country_info.r-tabs .r-tabs-accordion-title .r-tabs-anchor,
+    .chooseclass_info.r-tabs .r-tabs-accordion-title .r-tabs-anchor {
+        background: none;
+        border-radius: 0;
+        border-top: 1px solid #b0b0b0;
+        text-shadow: none;
+        font-size: 16px;
+        color: #666666;
+        font-family: 'HELVETICANEUEBOLD';
+    }
+    .home_country_info.r-tabs .r-tabs-accordion-title.r-tabs-state-active .r-tabs-anchor,
+    .visas_country_info.r-tabs .r-tabs-accordion-title.r-tabs-state-active .r-tabs-anchor,
+    .chooseclass_info.r-tabs .r-tabs-accordion-title.r-tabs-state-active .r-tabs-anchor {
+        color: #fff;
+        background: #eb2322;
+    }
+    .home_country_list,
+    .visas_country_list,
+    .chooseclass_list {
+        padding: 0;
+    }
+    .home_country_list ul li,
+    .visas_country_list ul li {
+        width: 45%;
+        margin: 10px;
+    }
+    .chooseclass_list ul li {
+        width: 100%;
+    }
+    .page-id-8274 .chooseclass_list ul li {
+        max-width: 100%;
+    }
+    .smartopportunityfinder_list ul li {
+        padding: 0 5px;
+        max-width: 220px;
+    }
+    .footer_top_info .footer_top_cont ul li {
+        width: 32%;
+    }
+    .contactus_address_list {
+        min-height: 230px;
+    }
+    .et_header_style_left #et-top-navigation {
+        padding: 10px 0 !important;
+    }
+    .et_header_style_left .mobile_menu_bar {
+        padding-bottom: 0;
+    }
+    .about_banner_listinfo ul li {
+        margin: 0 15px;
+    }
+    .product_menu_info ul li {
+        margin: 0 2px;
+        font-size: 12px;
+        text-transform: capitalize;
+    }
+    .missionstatement_info {
+        margin: 10px auto 0 auto;
+    }
+    .careers_banner_info .careers_banner_txt {
+        padding: 20px 0 0 0;
+    }
+    .careersourteam_list {
+        min-height: inherit;
+    }
+    div.et_pb_section.et_pb_section_4.anecosystem_info {
+        background: none !important;
+        margin: 0;
+    }
+    .immigration_list .applynow_btn {
+        max-width: 362px;
+        margin: 0 auto;
+    }
+    div.et_pb_section.et_pb_section_3.immigrationprocess_info {
+        background: none !important;
+        margin: 0;
+    }
+    div.et_pb_section.et_pb_section_2.careerdecision_info {
+        background-image: none !important;
+    }
+    .howitworks_tab_list .r-tabs .r-tabs-accordion-title {
+        text-align: left;
+    }
+    .howitworks_tab_info {
+        border: 1px solid #c7c7c7;
+        border-bottom: 0;
+    }
+    .howitworks_tab_list .r-tabs .r-tabs-accordion-title .r-tabs-anchor {
+        font-size: 30px;
+        color: #000;
+        text-shadow: none;
+        padding: 20px;
+        border-radius: 0;
+        background: #fff;
+        border-bottom: 1px solid #c7c7c7;
+    }
+    .howitworks_tab_info .r-tabs-panel {
+        padding: 20px;
+        box-shadow: none;
+        border-bottom: 1px solid #c7c7c7;
+        border-radius: 0;
+        min-height: inherit !important;
+    }
+    .howitworks_tab_list .prev_next_info {
+        bottom: 0;
+        position: relative;
+        margin: 10px auto 0 auto;
+    }
+    .countriesoccupations_list ul li {
+        width: 49%;
+    }
+    .howitworks_tab_list .prev_next_info ul li {
+        margin: 5px 10px;
+    }
+    .tabs_info .tabs_title {
+        padding: 0 20px 30px 20px;
+        background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/tabs_title_line.png) 0 19px repeat-x, url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/tabs_title_dot.png) 0 14px no-repeat, url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/images/tabs_title_dot.png) right 14px no-repeat;
+    }
+    .tabs_info .tabs_title ul li .circle_num {
+        font-size: 20px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    .tabs_info .tabs_listcont .tabs_listinnercont {
+        padding: 0 40px;
+    }
+    .tabs_info .tabs_title ul li b {
+        height: 52px;
+    }
+    .searchandfilter select.sf-input-select {
+        min-width: 170px;
+    }
+    .footer_top_info .footer_top_cont ul li .footer_top_continner {
+        min-height: 105px;
+    }
+    .et_pb_section .et_pb_column .et_pb_module.contact_addr,
+    .et_pb_section .et_pb_column .et_pb_module.contact_details {
+        margin-bottom: 0;
+    }
+    .rewards_life_info .et_pb_blurb.et_pb_text_align_left .et_pb_blurb_content .et_pb_blurb_container {
+        text-align: center;
+    }
+    .caroufredsel_wrapper {
+        max-width: 100% !important;
+    }
+    div#SlideWizard-222-wrapper {
+        max-width: 100% !important;
+    }
+    .services_testimonials_info.testimonials_info .themes-default .no-image {
+        max-width: 700px !important;
+    }
+    .themes-default .slidewizard {
+        left: 0 !important;
+    }
+    .coaching_slider .et_pb_container {
+        min-height: 550px;
+    }
+    .et_pb_section.yguru_whychooseus_list:nth-child(odd) {
+        padding-right: 50% !important;
+    }
+    .et_pb_section.yguru_whychooseus_list:nth-child(even) {
+        padding-left: 50% !important;
+    }
+    .entry-content .et_pb_row {
+        padding: 10px 0;
+    }
+    .et_pb_section .et_pb_row .et_pb_column.et_pb_column_1_4 {
+        margin: 0;
+    }
+    .our_impact_presence_info .section_title {
+        padding-top: 0;
+    }
+    .coaching_form {
+        right: 0;
+        left: 0;
+        margin: 0 auto;
+    }
+    .formtemplate_formlist ul li input[type="text"],
+    .formtemplate_formlist ul li input[type="email"],
+    .formtemplate_formlist ul li input[type="password"],
+    .formtemplate_formlist ul li input[type="tel"],
+    .formtemplate_formlist ul li textarea {}
+    .courses_list h4 {
+        margin: 30px 0 20px 0;
+    }
+    .yguru_banner_cont h2 {
+        margin: 0 0 25px 0;
+        padding: 0 0 40px 0;
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .yguru_banner_cont .learnbest_btn {
+        font-size: 13px;
+    }
+    .section_title h4 {
+        text-align: center;
+    }
+    .our_impact_presence_info .section_title h4:after {
+        right: 0;
+        margin: auto;
+    }
+    .footer-widget:nth-child(n) {
+        margin-bottom: 2% !important;
+    }
+    .footer-widget:last-child {
+        width: 100% !important;
+        margin: 0 7.5% 2.5% 0 !important;
+    }
+    #text-2 {
+        width: 53% !important;
+    }
+    #text-3 {
+        width: 47% !important;
+    }
+    #text-3 .footer_email_call {
+        width: 90%;
+        float: right;
+    }
+    a.r-tabs-anchor:after {}
+    #et-secondary-menu,
+    #et-secondary-nav {
+        display: block !important;
+    }
+    .et_mobile_menu .menu-item-has-children>span {
+        background: #f9f9f9;
+        width: 43px;
+        height: 43px;
+        right: 0;
+    }
+    .et_mobile_menu .menu-item-has-children>span:after {
+        content: '3';
+        left: 15px;
+    }
+    .concierge_city_list ul li {
+        padding: 0 10px;
+    }
+    .concierge_list ul li {
+        -ms-flex: 0 0 33.33%;
+        flex: 0 0 33.33%;
+        max-width: 33.33%;
+        padding: 15px;
+    }
+    .concierge_list ul li:nth-child(4n) {
+        border-right: 1px solid #cccccc;
+    }
+    .concierge_list ul li:nth-child(4) {
+        border-top: 1px solid #cccccc;
+    }
+    .concierge_list ul li:nth-child(3n) {
+        border-right: 0;
+    }
+}
+
+@media(max-width:768px) {
+    .table-scroll {
+        overflow-x: scroll;
+    }
+}
+
+@media(max-width:767px) {
+    .careers_banner.et_pb_slider .et_pb_slide {
+        height: 140px;
+    }
+    #et-secondary-menu {
+        width: 100%;
+    }
+    #et-secondary-nav {
+        text-align: center;
+        width: 100%;
+        padding-top: 10px;
+    }
+    #et-secondary-nav li {
+        position: inherit !important;
+    }
+    #et-info {
+        text-align: center !important;
+        width: 100%;
+    }
+    .occupations_list ul li {
+        list-style: none;
+        margin: 30px;
+        text-align: center;
+        width: inherit;
+    }
+    .flags_list ul li {
+        width: inherit;
+        border: none;
+        padding: 20px 0;
+        border-bottom: 1px solid #ccc;
+        margin: 0;
+    }
+    .flag_img {
+        width: inherit;
+        margin: 0 auto;
+    }
+    .flag_cont {
+        width: inherit;
+    }
+    .yguru_banner_cont h1 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    a.whatsup-icon {
+        display: inline-block !important;
+    }
+    .smartopportunityfinder_list ul li {
+        padding: 5px;
+    }
+    .footer_top_info .footer_top_cont ul li {
+        width: 49%;
+        margin: 10px 0;
+    }
+    .et_mobile_menu {
+        height: 265px;
+        overflow: auto;
+    }
+    .about_banner_listinfo ul li {
+        margin: 0px 5px;
+    }
+    .services_menu_info .services_menu_left {
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    .product_menu_info ul {
+        display: block;
+        text-align: center;
+    }
+    .product_menu_info ul li {
+        margin: 0 2px;
+        font-size: 12px;
+        text-transform: capitalize;
+    }
+    .product_menu_info ul li a {
+        padding: 10px 0;
+    }
+    .services_menu_info .services_menu_right {
+        float: none;
+        padding: 5px 0 10px 0;
+        width: 100%;
+        text-align: center;
+    }
+    .csr_banner_info {
+        padding: 80px 0 !important;
+    }
+    .csr_banner_list {
+        padding: 20px !important;
+    }
+    .csr_banner_list h2 {
+        padding: 0 0 20px 0;
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .careers_menu_info.services_menu_info .services_menu_right {
+        padding: 5px 0 10px 0;
+    }
+    .careers_banner_info .careers_banner_txt h2 {
+        margin: 0 0 20px 0;
+        font-size: 32px;
+    }
+    .careers_why_banner_info .careers_why_banner_txt h2 {
+        font-size: 32px;
+    }
+    .yourcareerpath_list ul li {
+        padding: 30px;
+    }
+    .country_banner_list ul li {
+        margin: 5px 15px;
+    }
+    .resume_pricing_info .resume_pricing_title h5 {
+        margin: 20px 0 0 0;
+    }
+    .resume_pricing_info .resume_pricing_title .et_pb_column {
+        margin-bottom: 0;
+    }
+    .latestpost_list ul li .latestpost_img {
+        width: 150px;
+    }
+    .latestpost_list ul li .latestpost_cont {
+        padding: 0 0 0 170px;
+    }
+    .news_post_relatedposts_list ul li {
+        width: 49%;
+        margin: 0 0 20px 0;
+    }
+    .news_post_info .news_post_title h5 {
+        font-size: 20px;
+    }
+    #footer-widgets {
+        padding: 6% 0 0;
+    }
+    .et_pb_section .et_pb_column .et_pb_module.contact_addr,
+    .et_pb_section .et_pb_column .et_pb_module.contact_details,
+    .noticetoclients_info p,
+    .noticetoclients_info .et_pb_column .innerpage_section_title h2,
+    .noticetoclients_info .et_pb_column {
+        margin-bottom: 0;
+    }
+    .rewardingcareer_list .et_pb_column,
+    .rewardingcareer_txt .innerpage_section_title h2,
+    .anecosystem_txt .innerpage_section_title h2,
+    .futurewith_list .et_pb_column {
+        margin-bottom: 20px;
+    }
+    .contactus_address_list {
+        min-height: 220px;
+    }
+    .contactus_title,
+    .contactus_address_list h5 {
+        margin-top: 20px;
+    }
+    .footer_top_info .footer_top_cont ul li .footer_top_continner {
+        min-height: inherit;
+    }
+    .noticetoclients_info h6 {
+        margin: 15px 0 10px;
+    }
+    .innerpage_header h6 {
+        margin-top: 20px;
+    }
+    .futurewith_list.et_pb_row,
+    #our_team .et_pb_row,
+    .ourteam_info.et_pb_row,
+    .visa_howitwork_info .et_pb_row {
+        padding: 15px 0;
+    }
+    .yourcareerpath_list ul li h6:after {}
+    .tabs_info .tabs_title {
+        padding: 10px 20px 45px 20px;
+    }
+    .tabs_info .tabs_title ul li .circle_num {
+        font-size: 15px;
+        width: 25px;
+        height: 25px;
+        line-height: 23px;
+    }
+    .tabs_info form .form-group .skilled_outside label,
+    .tabs_info form .form-group .skilled_aus label {
+        width: inherit;
+    }
+    .tabs_listinnercont .tabs h3 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .tabs_listinnercont .tabs p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .tabs_info .disclaimer {
+        font-size: 18px;
+    }
+    .tabs_info form .form-group .submit_forminfo label {
+        text-align: left;
+    }
+    .news_homepage_slider .news_homepage_slider_list .news_homepage_slider_cont h5 {
+        font-size: 18px;
+    }
+    .latestpost_list ul li .latestpost_img img {
+        width: 100%;
+    }
+    .visas_formlist.visa_home_ban_form {
+        margin-right: 0;
+    }
+    .visas_formlist {
+        margin: 0 auto !important;
+        float: none;
+    }
+    .visas_country_list ul li {
+        margin: 10px 5px;
+        display: inline-table;
+        width: 135px;
+    }
+    .visa_services_list ul li {
+        display: inline-block;
+        margin-top: 20px;
+        width: 100%;
+    }
+    .visa_services_list ul {
+        padding: 20px;
+    }
+    .visa_howitwork_list .visa_howitwork_num {
+        font-size: 50px;
+    }
+    .visa_howitwork_list .visa_howitwork_cont {
+        padding: 0 0 0 40px;
+    }
+    .visa_howitwork_info .et_pb_row .section_title h4 {
+        margin-bottom: 0;
+    }
+    .services_testimonials_info.testimonials_info .themes-default .no-image {
+        display: table;
+        width: 100% !important;
+        width: 550px !important;
+    }
+    .yadmission_howitworks_list ul li {
+        margin: 0;
+        padding: 0 10px;
+        text-align: left;
+        display: inline-block;
+        width: 100%;
+        vertical-align: top;
+    }
+    .yadmission_howitworks_list {
+        background: none;
+    }
+    .chooseclass_list ul li {
+        margin: 10px;
+        padding: 50px 20px;
+        max-width: 100%;
+    }
+    .caroufredsel_wrapper {
+        max-width: 100% !important;
+        min-height: 400px;
+    }
+    div#SlideWizard-222-wrapper {
+        max-width: 100% !important;
+    }
+    .credentials_cont_right h4 {
+        padding: 0 0 25px 0;
+        margin-bottom: 35px;
+    }
+    .services_testimonials_info.testimonials_info .slidewizard-direction-left.themes-default .slidewizard-controls-next,
+    .services_testimonials_info.testimonials_info .slidewizard-direction-left.themes-default .slidewizard-controls-next:hover {
+        right: 15px;
+        display: none !important;
+        visibility: hidden !important;
+    }
+    .services_testimonials_info.testimonials_info .slidewizard-direction-left.themes-default .slidewizard-controls-prev,
+    .services_testimonials_info.testimonials_info .slidewizard-direction-left.themes-default .slidewizard-controls-prev:hover {
+        left: 15px;
+        display: none !important;
+        visibility: hidden !important;
+    }
+    .testimonials_info .slidewizard-direction-left.themes-default .slidewizard-controls-prev,
+    .testimonials_info .slidewizard-direction-left.themes-default .slidewizard-controls-prev:hover,
+    .testimonials_info .slidewizard-direction-left.themes-default .slidewizard-controls-next,
+    .testimonials_info .slidewizard-direction-left.themes-default .slidewizard-controls-next:hover {
+        background: url(https://media1-a38e.kxcdn.com/wp-content/themes/yaxis-child/css/images/testimonials_prev.png) 0 0 no-repeat;
+        left: 0px;
+        display: none !important;
+    }
+    .international_partnerships_list .international_partnerships_listinner h6 {
+        padding-bottom: 10px;
+    }
+    .product_banner_info h1 {
+        font-size: 28px;
+    }
+    .product_banner_info p {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .location_speak_list ul li {
+        margin: 0 16px 10px;
+    }
+    .single-service table {
+        padding: 0;
+        margin: 0;
+        width: 100% !important;
+    }
+    .single-service table tr td {
+        padding: 10px;
+        margin: 0;
+        width: 100% !important;
+    }
+    .single-service .et_pb_text_inner .getstarted_btn {
+        margin-top: 30px;
+    }
+    .slidewizard-slide-item.has-excerpt.no-image.has-title {
+        width: 550px !important;
+    }
+    #post-282 .product_banner_info h1,
+    #post-492 .product_banner_info h1,
+    .single-service .product_banner_info h1 {
+        margin-top: 20px;
+    }
+    #post-440 .product_banner_info h1 {
+        margin-top: 35px;
+    }
+    .coaching_slider .et_pb_container {
+        width: 100%;
+        max-width: inherit;
+        min-height: 890px;
+        z-index: 1;
+    }
+    .yguru_banner_cont h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    div.et_pb_section.yguru_whychooseus_list {
+        padding-top: 340px !important;
+        background-size: 100%;
+        background-position: top;
+    }
+    .et_pb_section.yguru_whychooseus_list:nth-child(odd),
+    .et_pb_section.yguru_whychooseus_list:nth-child(even) {
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+    .yguru_whychooseus_info h4 {
+        margin: 10px 0 0;
+    }
+    .yguru_whychooseus_list h5 {}
+    .eligibility_list h4,
+    .process_list h4,
+    .benefits_list h4,
+    .testimonials_info h4,
+    .overview_list h4,
+    .overview_list h2,
+    .details_info h4,
+    .pricing_info h4 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .about_banner_listinfo {
+        width: inherit;
+    }
+    .about_banner_info .about_banner_listinfo h6:after {
+        width: 100%;
+    }
+    .courses_list h4:after {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        content: "";
+        width: 60px;
+        height: 6px;
+        background: #eb3535;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .courses_list p {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .courses_list .getstarted_btn {
+        margin: 0 auto 10px;
+    }
+    #main-footer #nav_menu-2,
+    #main-footer #nav_menu-5,
+    #main-footer #nav_menu-3,
+    #main-footer #nav_menu-4 {
+        width: 50%;
+    }
+    .section_title h4,
+    .courses_list h4 {
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+        text-align: center
+    }
+    .our_impact_presence_info .section_title h4:after {
+        margin: 0 auto;
+        right: 0;
+    }
+    #nav_menu-3 h4,
+    #nav_menu-3 div {}
+    #nav_menu-4 h4,
+    #nav_menu-4 div {}
+    .footer_email_call ul li {
+        padding-left: 0 !important;
+    }
+    .footer_email_call li.email_info,
+    .footer_email_call li.call_info,
+    .footer_email_call li.web_info {
+        background: none !important;
+    }
+    .footer_email_call {}
+    #text-2 {
+        margin-bottom: 0 !important;
+    }
+    a.r-tabs-anchor:after {}
+    .chooseclass_info .r-tabs-panel {
+        min-height: inherit !important;
+    }
+    .visas_country_list ul li h6 .visas_country_popuplist {
+        max-width: 200%;
+    }
+    .product_menu_info .et_pb_column {
+        float: none;
+    }
+    .et_pb_section_0.et_pb_section h1 {
+        padding-top: 25px;
+    }
+    #text-2,
+    #text-3 {
+        width: inherit !important;
+        */
+    }
+    .visas_banner_info h2 {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .open_inte_cho_info ul li {
+        width: 100%;
+    }
+    .star_info .starimg {
+        margin: 0 32%;
+    }
+    #text-3 .footer_email_call {
+        width: inherit;
+        float: inherit;
+    }
+    .contactus_address_info .vof {
+        display: none;
+    }
+    #et-info,
+    #et-secondary-menu {
+        float: left;
+        text-align: inherit;
+    }
+    .et_secondary_nav_two_panels #et-secondary-menu {
+        margin-top: 0;
+    }
+    #et-secondary-nav li {
+        margin-right: 3px;
+    }
+    .testimonials_info .slidewizard-wrapper {
+        max-width: 100%;
+        border-bottom: 0 !important;
+        height: 250px !important;
+    }
+    .testimonials_info .slide-description {
+        padding-right: 30px;
+    }
+    #main-footer #nav_menu-4 {
+        margin-left: inherit;
+    }
+    #main-footer #text-16.fwidget {
+        padding-left: 30px !important;
+    }
+    .mc4wp-form-fields {
+        display: inline-block;
+    }
+    #main-footer #nav_menu-4 {
+        margin-left: inherit;
+    }
+    #main-footer .fwidget.widget_text {
+        width: 50% !important;
+    }
+    #custom_html-2 h4,
+    #custom_html-2 .custom-html-widget {}
+    .mc4wp-form-fields {
+        display: inline-block;
+    }
+    form#mc4wp-form-1 {
+        text-align: center;
+    }
+}
+
+@media(max-width:620px) {
+    .tabs_listinnercont .tabs .iagree_txt {
+        margin: inherit;
+    }
+    .notifications_info .notifications_list {
+        width: 260px;
+    }
+    .footer_top_imglist ul li {
+        width: inherit;
+        display: inline-block;
+        float: inherit;
+        margin: 0 15px;
+    }
+    .yx_five .r-tabs-panel {
+        padding-top: 20px;
+    }
+    .yx_five .yx_five_inner {
+        width: 100%;
+        padding: 20px;
+    }
+    .home_banner_list .features,
+    .features_form .features_formtxt .features_forminput input,
+    .features_form .features_formtxt p {
+        font-size: 16px;
+    }
+    .home_country_list ul li {
+        width: 43%;
+    }
+    .howitworks_list ul {
+        background-position: left 13px center;
+    }
+    .howitworks_list ul li .howitworks_listinner {
+        width: 100%;
+        float: left;
+        padding: 0 0 0 35px;
+    }
+    .howitworks_list ul li:nth-child(2n) .howitworks_listinner {
+        padding: 0 0 0 35px;
+    }
+    .howitworks_list ul li:nth-child(2n) .howitworks_num {
+        float: left;
+    }
+    .howitworks_list ul li:nth-child(2n) .howitworks_cont {
+        padding: 0 0 0 40px;
+        text-align: left;
+    }
+    .howitworks_list ul li .howitworks_listinner:after {
+        left: 0;
+    }
+    .howitworks_list ul li:nth-child(2n) .howitworks_listinner:after {
+        left: 0;
+        right: auto;
+    }
+    .our_impact_presencelist ul li {
+        width: 100%;
+        padding: 15px 0;
+    }
+    .footer_top_info .footer_top_cont ul li {
+        width: 100%;
+    }
+    .howitworks_list ul li .howitworks_cont strong {
+        display: block;
+        font-size: 18px;
+    }
+    .howitworks_list ul li .howitworks_cont br {
+        display: none;
+    }
+    .section_title h4,
+    .features_sampleresume_info .innerpage_section_title h2 {
+        font-size: 22px;
+    }
+    .et_mobile_menu {
+        height: 470px;
+    }
+    .our_impact_presencelist ul li h4,
+    .innerpage_section_title h2 {
+        font-size: 24px;
+    }
+    #main-footer .title {
+        font-size: 14px;
+        margin: 0 0 10px 0;
+    }
+    #footer-widgets .footer-widget .menu li {
+        font-size: 14px;
+    }
+    #footer-info {
+        font-size: 14px;
+    }
+    .contact_phone_mail_txt h5 {
+        margin: 0 0 10px 0;
+        font-size: 18px;
+    }
+    .contact_phone_mail_txt p {
+        margin: 0 0 20px 0;
+        font-size: 18px;
+    }
+    .contact_phone_mail_txt h4 {
+        margin: 0 0 15px 0;
+        padding: 10px 0 0 0;
+        font-size: 20px;
+    }
+    .formtemplate_formlist {
+        padding: 40px 20px !important;
+    }
+    .about_banner_listinfo ul li {
+        margin: 10px;
+    }
+    .about_banner_listinfo h6 {
+        margin: 0 0 20px 0;
+        padding: 0 0 10px 0;
+        font-size: 16px;
+    }
+    .about_banner_listinfo h6:after {
+        width: 100%;
+    }
+    .csr_banner_list h2:after {
+        width: 100%;
+    }
+    .careers_banner_info .careers_banner_txt h2 {
+        font-size: 28px;
+    }
+    .rewards_life_info .rewards_life_list {
+        padding: 15px !important;
+    }
+    .rewards_life_info .et_pb_main_blurb_image {
+        width: 150px;
+    }
+    .rewards_life_info .et_pb_blurb h4 {
+        font-size: 26px;
+        line-height: 30px;
+        margin: 0 0 20px 0;
+    }
+    .careers_why_banner_info .careers_why_banner_txt h2 {
+        font-size: 26px;
+    }
+    .yourcareerpath_list ul li {
+        padding: 20px;
+    }
+    .overview_page_list ul li {
+        width: 49%;
+    }
+    .internationalresume_banner_info {
+        padding: 80px 0 !important;
+    }
+    .internationalresume_banner_txt h5 {
+        font-size: 18px;
+    }
+    .resume_pricing_info .internationalresume_list .et_pb_text_inner {
+        text-align: center;
+    }
+    .resume_pricing_info .internationalresume_list p {
+        margin: 0 0 10px 0;
+    }
+    .resume_pricing_info .internationalresume_list .year_price_btn {
+        margin: 0;
+    }
+    .resume_pricing_info .resume_pricing_title h5 {
+        font-size: 20px;
+    }
+    .news_post_info .news_post_title h5 {
+        font-size: 18px;
+    }
+    .articles_next_prev_btn ul li a {
+        width: 120px;
+        padding: 5px 0;
+    }
+    .blow_home_articles_list ul li .articles_name_comment .articles_name {
+        padding: 0 100px 0 0;
+    }
+    .blow_home_articles_list ul li .articles_share_list a,
+    .blow_topic_info .topic_share_list a {
+        margin: 0 0 0 5px;
+    }
+    .blow_home_articles_list ul li {
+        margin: 0 0 30px 0;
+    }
+    .moremigrants_info h5 {
+        padding: 20px;
+    }
+    .moremigrants_info h5 br {
+        display: none;
+    }
+    .blow_home_articles_list ul li .articles_visa_list p {
+        font-size: 14px;
+    }
+    .coaching_slider .et_pb_container {
+        width: 100%;
+        max-width: inherit;
+        min-height: 960px;
+        z-index: 1;
+    }
+    .concierge_city_list ul li {
+        padding: 0 5px;
+    }
+    .concierge_list ul li {
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+        padding: 15px;
+    }
+    .concierge_list ul li:nth-child(3n) {
+        border-right: 1px solid #cccccc;
+    }
+    .concierge_list ul li:nth-child(3) {
+        border-top: 1px solid #cccccc;
+    }
+    .concierge_list ul li:nth-child(2n) {
+        border-right: 0;
+    }
+}
+
+@media(max-width:450px) {
+    .home_banner_list h6 {
+        margin: 0 0 20px 0;
+        font-size: 16px;
+    }
+    .home_banner_list .features,
+    .features_form .features_formtxt .features_forminput input,
+    .features_form .features_formtxt p {
+        font-size: 14px;
+    }
+    .features_form .features_formtxt .features_forminput {
+        width: 110px;
+    }
+    .home_country_list ul li {
+        width: 100% !important;
+        margin: 0 0 20px 0;
+    }
+    .home_country_list ul li .home_country_listinner {
+        min-height: inherit !important;
+    }
+    .product_popup_form_list {
+        width: 90%;
+        top: 60%;
+    }
+    .product_popup_form_list ul li {
+        margin: 15px 0 0 0;
+    }
+    .product_popup_form_list ul li.firstname,
+    .product_popup_form_list ul li.lastname {
+        width: 100%;
+    }
+    .product_popup_form_list .iagree_txt p,
+    .product_popup_form_list .iagree_txt {
+        font-size: 10px;
+    }
+    .contactus_address_list {
+        min-height: inherit;
+    }
+    #main-footer .fwidget {
+        padding: 0 !important;
+    }
+    .footer_email_call {
+        width: 100%;
+        margin: 0 0 30px 0;
+    }
+    .csr_banner_list h2 {
+        font-size: 22px;
+        line-height: 30px;
+        text-transform: capitalize;
+    }
+    .careers_banner_info .careers_banner_txt h2 {
+        font-size: 22px;
+    }
+    .rewards_life_info .et_pb_main_blurb_image {
+        width: 130px;
+    }
+    .rewards_life_info .et_pb_blurb h4 {
+        font-size: 18px;
+        line-height: 20px;
+        margin: 0 0 10px 0;
+        text-align: left;
+    }
+    .rewards_life_info .et_pb_blurb h4:after {
+        width: 100%;
+    }
+    .rewards_life_info .knowmore_btn {
+        font-size: 12px;
+        text-transform: capitalize;
+        padding: 8px 20px;
+    }
+    .careers_why_banner_info .careers_why_banner_txt h2 {
+        font-size: 22px;
+    }
+    .overview_page_list ul li {
+        width: 100%;
+    }
+    .latestpost_list ul li .latestpost_img {
+        width: 100%;
+        float: none;
+    }
+    .latestpost_list ul li .latestpost_cont {
+        padding: 10px 0 0 0;
+    }
+    .countriesoccupations_list ul li {
+        width: 100%;
+    }
+    .eligibility_list ul li .eligibility_name {
+        float: none;
+        width: 100%;
+        margin-top: 10px;
+    }
+    .eligibility_list ul li .eligibility_val {
+        padding: 0;
+    }
+    .news_post_relatedposts_list ul li {
+        width: 100%;
+    }
+    .news_post_viewallpost_info {
+        padding: 15px;
+    }
+    .news_post_viewallpost_info .news_post_viewallpost_img {
+        float: none;
+        margin: 0 auto;
+    }
+    .news_post_viewallpost_info .news_post_viewallpost_cont {
+        padding: 10px 0 0 0;
+        text-align: center;
+    }
+    .blow_home_articles_list ul li .articles_name_comment .articles_name {
+        padding: 0;
+    }
+    .blow_home_articles_list ul li .articles_comment {
+        position: relative;
+        right: auto;
+        top: auto;
+    }
+    .resume_pricing_info .internationalresume_list h6 {
+        margin-bottom: 20px;
+    }
+    .ourteam_info.et_pb_row,
+    .eligibility_list.et_pb_row,
+    #eligibility.et_pb_row {
+        padding: 0 !important;
+    }
+    .job_bottom_btn .et_pb_row {
+        padding: 20px 0 0;
+    }
+    .et_pb_row:last-child .et_pb_column:last-child {
+        margin-bottom: 20px;
+    }
+    .product_menu_info .et_pb_column {
+        margin: 0;
+    }
+    .product_menu_info ul {
+        text-align: center;
+    }
+    .product_menu_info ul li {
+        line-height: 10px;
+        padding-right: 8px;
+    }
+    .services_testimonials_info.testimonials_info .themes-default .no-image,
+    .slidewizard-slide-item.has-excerpt.no-image.has-title {
+        width: 340px !important;
+    }
+    div#SlideWizard-222-wrapper {
+        min-height: 300px;
+    }
+    div.et_pb_section.yguru_whychooseus_list {
+        padding-top: 197px !important;
+    }
+    #et-info-phone {
+        font-size: 12px margin-right:5px;
+    }
+    #et-secondary-nav li {
+        margin-right: 0;
+    }
+    #et-secondary-nav li a {
+        font-size: 10px;
+        padding: 5px;
+    }
+    .home_banner_list {
+        margin-top: 150px;
+    }
+    .concierge_info .concierge_info_view .innerpage_section_title h2 {
+        margin: 0 0 30px 0;
+        font-size: 20px;
+    }
+}
+
+@media(max-width:380px) {
+    .notifications_info .notifications_list {
+        width: 220px;
+    }
+    .concierge_list ul li {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding: 15px;
+        border-right: 0;
+    }
+    .concierge_list ul li:nth-child(3n) {
+        border-right: 0;
+    }
+    .concierge_list ul li:nth-child(2) {
+        border-top: 1px solid #cccccc;
+    }
+}
+
+@media(max-width:2560px) {
+    .banner_slider .banner_slider_list_3 .banner_slider_listimg {
+        background-position: left 0px bottom;
+    }
+    .getintouch_info {
+        padding: 20px 30px;
+    }
+    .getintouch_info ul li {
+        min-height: 46px;
+    }
+    .page-id-19675 .getintouch_info,
+    .page-id-19726 .getintouch_info {
+        height: 35%;
+    }
+    .custom_tiles {
+        height: 19.5%;
+    }
+}
+
+@media(max-width:1700px) {
+    .getintouch_info {
+        padding: 15px 30px;
+    }
+    .getintouch_info h4 {
+        margin: 0 0 15px 0;
+    }
+    .getintouch_info small {
+        margin-bottom: 20px;
+    }
+}
+
+@media(max-width:1500px) {
+    .banner_slider .banner_slider_listimg {
+        height: calc(65vh - 86px);
+    }
+    .banner_right_info {
+        height: calc(65vh - 86px);
+    }
+    .getintouch_info {
+        padding: 15px;
+    }
+    .page-id-19675 .getintouch_info,
+    .page-id-19726 .getintouch_info {
+        height: 37%;
+    }
+    .page-id-19675 .getintouch_info ul li,
+    .page-id-19726 .getintouch_info ul li {
+        min-height: 47px;
+    }
+    .getintouch_info h4 {
+        font-size: 20px;
+        margin: 0;
+    }
+    .getintouch_info ul li {
+        padding: 0 15px 0 15px;
+        min-height: 61px;
+    }
+    .getintouch_info ul li input[type="text"],
+    .getintouch_info ul li input[type="tel"],
+    .getintouch_info ul li input[type="email"],
+    .getintouch_info ul li input[type="password"] {
+        height: 35px;
+    }
+    .whystudyabroad_info,
+    .settlemalta_info {
+        padding: 10px 15px;
+    }
+    .custom_tiles {
+        height: 21%;
+        padding: 10px 15px;
+    }
+    .custom_tiles .applynow_btn {
+        left: 15px;
+        bottom: 10px;
+    }
+    .getintouch_info small {
+        margin-bottom: 10px;
+    }
+    .banner_slider .banner_slider_listcont {
+        right: 20px;
+        bottom: 20px;
+    }
+    .banner_slider .banner_slider_listcont h1 {
+        font-size: 20px;
+    }
+    .banner_slider .banner_slider_list_3 .banner_slider_listimg {
+        background-position: left -20px bottom;
+    }
+    .banner_slider .banner_slider_indiatxt {
+        left: 9%;
+    }
+    .banner_slider .banner_slider_indiatxt h1 {
+        font-size: 24px;
+    }
+}
+
+@media(max-width:1400px) {
+    .banner_slider .banner_slider_listimg {
+        height: calc(70vh - 86px);
+    }
+    .banner_slider .banner_slider_list_3 .banner_slider_listimg {
+        background-position: left bottom;
+    }
+    .banner_right_info {
+        height: calc(70vh - 86px);
+    }
+    .getintouch_info {
+        padding: 10px;
+    }
+    .getintouch_info h4 {
+        font-size: 16px;
+        margin: 0;
+    }
+    .getintouch_info ul {
+        margin-right: -10px;
+        margin-left: -10px;
+    }
+    .getintouch_info ul li {
+        padding: 0 10px 0 10px;
+        min-height: 57px;
+    }
+    .getintouch_info small {
+        font-size: 10px;
+        margin-bottom: 5px;
+        line-height: 16px;
+    }
+    .page-id-19449 .getintouch_info ul li label {
+        margin: 5px 0;
+        display: block;
+    }
+    .getintouch_info .getstart_btn {
+        padding: 6px 20px;
+        font-size: 12px;
+    }
+    .whystudyabroad_info,
+    .settlemalta_info {
+        padding: 10px;
+    }
+    .custom_tiles {
+        height: 21%;
+        padding: 10px;
+    }
+    .whystudyabroad_info h5 {
+        margin: 5px 0 0 0;
+        font-size: 16px;
+    }
+    .settlemalta_info .settlemalta_img {
+        width: 70px;
+    }
+    .settlemalta_info .settlemalta_cont {
+        padding: 0 0 0 80px;
+    }
+    .settlemalta_info .settlemalta_cont h5 {
+        margin: 0 0 10px 0;
+        font-size: 18px;
+    }
+    .settlemalta_info .settlemalta_cont .applynow_btn {
+        padding: 8px 25px;
+    }
+    .coaching_courses ul {
+        margin-right: -10px;
+        margin-left: -10px;
+    }
+    .coaching_courses ul li {
+        margin: 0;
+        padding: 10px;
+    }
+    .inner_banner_info .banner_slider .banner_slider_listimg {
+        height: calc(100vh - 86px);
+    }
+    .inner_banner_info .banner_right_info {
+        height: calc(100vh - 86px);
+    }
+    .invest_whychooseus_info.australiavisasolutionsicons_info ul {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .australiavisaresource_innerbanner h1 {
+        font-size: 38px;
+        padding: 100px 0;
+    }
+    .australiavisaresource_innertitle h2 {
+        font-size: 36px;
+        line-height: 38px;
+    }
+    .banner_slider .banner_slider_indiatxt {
+        left: 12%;
+    }
+}
+
+@media(max-width:1100px) {
+    #top-menu li {
+        padding-right: 5px;
+    }
+    .main_nav_info #et-secondary-nav li {
+        margin-right: 5px;
+    }
+    #top-menu li a,
+    .main_nav_info #et-secondary-nav li a {
+        font-size: 12px;
+    }
+    .main_nav_info #et-secondary-nav li:last-child {
+        padding: 0 0 0 5px;
+    }
+    .banner_slider .banner_slider_listimg {
+        background-size: 100%;
+    }
+    .banner_slider .banner_slider_listcont {
+        left: 15%;
+    }
+    .banner_slider .banner_slider_list_3 .banner_slider_listimg {}
+    .banner_slider .banner_slider_list_4 .banner_slider_listimg {}
+    .settlemalta_info .settlemalta_img {
+        width: 60px;
+    }
+    .settlemalta_info .settlemalta_cont {
+        padding: 0 0 0 70px;
+    }
+    .settlemalta_info .settlemalta_cont h5 {
+        font-size: 16px;
+    }
+    .settlemalta_info .settlemalta_cont .applynow_btn {
+        padding: 6px 15px;
+    }
+    .aboutus_section_txt {
+        padding: 0;
+    }
+    .impact_company_list ul li {
+        max-width: 120px;
+        margin: 0 5px 0 0;
+        padding: 5px;
+        min-height: 140px;
+    }
+    .impact_company_list ul li h6,
+    .impact_company_list ul li h5 {
+        margin: 10px 0 0 0;
+    }
+    .impact_company_list ul li h6 {
+        font-size: 14px;
+    }
+    .impact_company_list ul li h5 {
+        font-size: 16px;
+    }
+    .lets_info .lets_txt {
+        font-size: 16px;
+        padding: 0 20px 0 0;
+    }
+    .lets_info .lets_list .email_txt {
+        width: 280px;
+    }
+    .followus_info .followus_txt {
+        padding: 0 20px 0 0;
+    }
+    .followus_info .followus_list ul li {
+        margin: 0 3px;
+    }
+    #footer-widgets .footer-widget li {
+        font-size: 12px;
+    }
+    #post-23935 .innerpage_banner_slider.et_pb_slider .et_pb_slide {
+        background-size: 100%;
+    }
+    #post-23935 .innerpage_banner_slider .et_pb_bg_layout_dark .et_pb_slide_description {
+        min-height: 150px;
+    }
+    .innerpage_banner_slider.et_pb_section,
+    .innerpage_banner_slider.et_pb_slider .et_pb_slide {
+        background-position: left center;
+    }
+    .banner_inner_getintouch_info .inner_getintouch_info {
+        right: 20px;
+    }
+    .countries_txt ul li .countries_list {
+        padding: 20px 5px;
+    }
+    .countries_txt ul li .countries_list img {
+        margin: 0 5px 0 0;
+    }
+    .countries_txt ul li .countries_list p {
+        font-size: 16px;
+    }
+    .introduction_country_list {
+        padding: 10px;
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .introduction_country_img_tit h6 {
+        font-size: 16px;
+        margin: 0 0 0 10px;
+    }
+    .study_abroad_package ul li {
+        width: 23% !important;
+        margin: 0 1% 20px 0 !important;
+    }
+    .visitvisa_icon_list .visitvisa_icon_listinner .et_pb_main_blurb_image {
+        width: 40px;
+    }
+    .et_pb_blurb_position_left .et_pb_blurb_container {
+        padding-left: 10px;
+    }
+    .visitvisa_icon_list .visitvisa_icon_listinner h5 {
+        font-size: 16px;
+    }
+    .eligibility_txt ul li {
+        width: 23%;
+        padding: 15px;
+        margin: 0 1% 15px 0;
+    }
+    .visa_countries ul li {
+        width: 23% !important;
+        margin: 0 1% 15px 0 !important;
+    }
+    .professional_box .et_pb_blurb_content {
+        padding: 20px 10px;
+    }
+    .professionals_countrylist ul li {
+        margin: 0 2px;
+    }
+    .professionals_countrylist ul li[data-tooltip]:before {
+        width: 140px;
+    }
+    .ielschoosecourse_contlist ul li .ielschoosecourse_continner {
+        padding: 20px 10px;
+    }
+    .ielschoosecourse_contlist ul li h5 {
+        font-size: 14px;
+    }
+    .ielschoosecourse_contlist ul li p {
+        margin: 0 0 20px 0;
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .ielschoosecourse_contlist ul li .getstarted_btn a {
+        padding: 10px 25px;
+        font-size: 14px;
+    }
+    .services_testimonials_info.testimonials_info .slidewizard-wrapper,
+    .services_testimonials_info.testimonials_info .slidewizard-wrapper .caroufredsel_wrapper {
+        width: 100% !important;
+    }
+    .careers_banner.et_pb_slider .et_pb_slide {
+        background-size: cover !important;
+    }
+    .csr_banner_info {
+        padding: 80px 0 !important;
+    }
+    .about_banner_info {
+        padding: 40px 0 !important;
+    }
+    .visas_formlist {
+        margin-top: 0px;
+        float: none;
+    }
+    .about_banner_listinfo {
+        width: 100%;
+        margin-top: 60px;
+    }
+    .about_banner_listinfo ul li {
+        margin: 0 10px 20px 10px;
+    }
+    .job_openings_filter .searchandfilter ul li {
+        margin: 0 10px 0 0;
+    }
+    .job_openings_filter .searchandfilter ul li:last-child {
+        margin: 0;
+    }
+    .job_openings_filter .searchandfilter ul li h4 {
+        margin: 0 10px 0 0;
+    }
+    .job_openings_filter .searchandfilter ul li label select.sf-input-select {
+        width: 180px;
+    }
+    .australiavisaresource_innerbanner h1 {
+        font-size: 36px;
+        padding: 80px 0;
+    }
+    .australiavisaresource_innertitle h2 {
+        font-size: 32px;
+        line-height: 34px;
+        margin-bottom: 0;
+    }
+    .banner_slider .banner_slider_indiatxt {
+        left: 16%;
+    }
+    .banner_slider .banner_slider_indiatxt h1 {
+        font-size: 20px;
+    }
+    .coaching_achievers_list {
+        font-size: 11px;
+    }
+    .innerpage_banner_slider.et_pb_slider .et_pb_slide {
+        background-size: 98%;
+        background-color: #fff;
+        background-position: left bottom;
+    }
+    .visitcanada_banner_slider.et_pb_slider .et_pb_slide {
+        background-size: cover;
+    }
+    .dependantaustralia_banner_slider.et_pb_slider .et_pb_slide {
+        background-color: #b2b2b2;
+    }
+    .bgclr_innerpage_banner.et_pb_slider .et_pb_slide {
+        background-color: #eee;
+        background-size: 100%;
+        background-position: left center;
+    }
+    .bg-position-center.et_pb_slider .et_pb_slide {
+        background-position: left center;
+    }
+}
+
+@media(max-width:980px) {
+    .innerpage_banner_slider.et_pb_slider .et_pb_slide {
+        background-size: cover;
+    }
+    .innerpage_banner_info .inner_getintouch_info .getstart_btn {
+        margin-left: 10px;
+    }
+    .et_header_style_left .logo_container {
+        position: relative;
+        width: 118px;
+        height: auto;
+        float: left;
+        padding: 7.5px 0 0 0;
+    }
+    .et_header_style_left #logo,
+    .et_header_style_split #logo {
+        max-width: 100%;
+    }
+    span.logo_helper {
+        display: none;
+    }
+    .main_nav_info {
+        padding: 7px 0;
+    }
+    .main_nav_info #et-top-navigation {
+        margin: 0 !important;
+        border: 0;
+        padding: 0 !important;
+    }
+    .main_nav_info #et-secondary-menu {
+        display: none !important;
+    }
+    .et_mobile_menu {
+        top: 46px;
+        padding: 0;
+        border-top: 3px solid #eb2322;
+    }
+    .et_mobile_menu li {
+        font-size: 14px;
+        color: #ffffff;
+        font-family: 'robotobold';
+        text-transform: uppercase;
+    }
+    .et_mobile_menu li a {
+        color: #fff;
+        padding: 10px;
+        font-size: 14px;
+        font-weight: normal;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    }
+    .et_mobile_menu .menu-item-has-children>a {
+        background: none;
+        font-weight: normal;
+    }
+    #main-header .et_mobile_menu li ul,
+    .et_pb_fullwidth_menu .et_mobile_menu li ul {
+        padding: 0;
+    }
+    .et_mobile_menu li li {
+        padding-left: 0;
+    }
+    .et_mobile_menu li li a {
+        padding-left: 40px;
+    }
+    .mobile_menu_bar:before {
+        color: #eb2322;
+    }
+    .banner_info .banner_slider {
+        width: 100%;
+        display: none;
+    }
+    .banner_slider .banner_slider_listimg {
+        height: 500px;
+        background-size: cover;
+    }
+    .inner_banner_info .banner_slider .banner_slider_listimg {
+        height: 440px;
+        background-size: cover;
+    }
+    .banner_slider .banner_slider_list_3 .banner_slider_listimg {
+        background-position: left bottom;
+    }
+    .banner_slider .banner_slider_list_4 .banner_slider_listimg {
+        background-position: left bottom;
+    }
+    .banner_right_info,
+    .inner_banner_info .banner_right_info {
+        width: 100%;
+        height: inherit;
+        position: relative;
+        top: auto;
+        right: auto;
+    }
+    .et_mobile_menu li a {
+        border-bottom: 1px solid #303132;
+    }
+    .et_mobile_menu li:last-child a {
+        border: 0;
+    }
+    .getintouch_info {
+        height: inherit;
+        padding: 30px;
+    }
+    .whystudyabroad_info,
+    .settlemalta_info {
+        height: 200px;
+        padding: 30px;
+    }
+    .custom_tiles {
+        height: 200px;
+        padding: 30px;
+    }
+    .settlemalta_info .settlemalta_img {
+        width: 93px;
+    }
+    .settlemalta_info .settlemalta_cont {
+        padding: 0 0 0 120px;
+    }
+    .settlemalta_info .settlemalta_cont h5 {
+        font-size: 20px;
+        margin: 0 0 20px 0;
+    }
+    .settlemalta_info .settlemalta_cont .applynow_btn {
+        padding: 10px 25px;
+    }
+    .et_pb_gutters3 .impact_company_info .et_pb_column_2_5 {
+        width: 100%;
+        margin-right: 0;
+        background: none;
+    }
+    .et_pb_gutters3 .impact_company_info .et_pb_column_2_5 .impact_company_list {
+        background: none;
+    }
+    .impact_company_list ul {
+        text-align: center;
+    }
+    .impact_company_list ul li,
+    .impact_company_list ul li:last-child {
+        margin: 5px;
+    }
+    .lets_info {
+        width: 100%;
+        text-align: center;
+        padding: 0 0 10px 0;
+    }
+    .followus_info {
+        width: 100%;
+        text-align: center;
+    }
+    .followus_info .followus_txt {
+        text-align: left;
+    }
+    #footer-widgets {
+        padding: 20px 0;
+    }
+    #footer-widgets .footer-widget {
+        width: 100% !important;
+        padding: 20px 0 !important;
+    }
+    #main-footer .title {
+        margin: 0 0 10px 0;
+    }
+    .et-social-icons {
+        margin: 0;
+    }
+    .testimonials_slider {
+        padding: 0 0 20px 0;
+    }
+    .testimonials_slider .swiper-pagination {
+        bottom: 0;
+    }
+    .r-tabs .r-tabs-accordion-title {
+        font-family: 'robotobold';
+        text-transform: uppercase;
+        color: #000000;
+        font-size: 14px;
+    }
+    .home_country_info.r-tabs,
+    .visas_country_info.r-tabs,
+    .chooseclass_info.r-tabs {
+        border: 1px solid rgb(215, 224, 241);
+        border-top: 0;
+    }
+    .home_country_info.r-tabs .r-tabs-accordion-title .r-tabs-anchor,
+    .visas_country_info.r-tabs .r-tabs-accordion-title .r-tabs-anchor,
+    .chooseclass_info.r-tabs .r-tabs-accordion-title .r-tabs-anchor {
+        color: #000000;
+        font-size: 14px;
+        border-top: 1px solid rgb(215, 224, 241);
+        font-family: 'robotobold';
+    }
+    .r-tabs .r-tabs-accordion-title img {
+        display: inline-block;
+        vertical-align: middle;
+        margin: 0 10px 0 0;
+    }
+    .r-tabs .r-tabs-accordion-title b {
+        display: inline-block;
+        vertical-align: middle;
+        margin: 0;
+        font-weight: normal;
+    }
+    .home_country_info.r-tabs .r-tabs-accordion-title.r-tabs-state-active .r-tabs-anchor,
+    .visas_country_info.r-tabs .r-tabs-accordion-title.r-tabs-state-active .r-tabs-anchor,
+    .chooseclass_info.r-tabs .r-tabs-accordion-title.r-tabs-state-active .r-tabs-anchor {
+        background: #fafafa;
+        color: #000;
+    }
+    .innerpage_banner_slider .et_pb_bg_layout_dark .et_pb_slide_description {
+        padding: 60px 0 0 0;
+        min-height: 360px;
+    }
+    .innerpage_banner_slider .et-pb-controllers {
+        padding-right: 0;
+    }
+    .banner_inner_getintouch_info .inner_getintouch_info {
+        position: relative;
+        width: 100%;
+        right: auto;
+        padding: 20px;
+    }
+    .et_pb_gutters3 .innerpage_specialty_section .et_pb_column_1_4,
+    .et_pb_gutters3.et_pb_row .innerpage_specialty_section .et_pb_column_1_4 {
+        width: 100%;
+    }
+    .countries_txt ul {
+        margin-left: -10px;
+        margin-right: -10px;
+    }
+    .countries_txt ul li {
+        margin: 0;
+        padding: 10px;
+    }
+    .et_pb_gutters3 .introduction_country_info .et_pb_column_1_4,
+    .et_pb_gutters3 .vistvisa_whychooseus_list .et_pb_column_1_4,
+    .et_pb_gutters3 .visas_whychooseus_info .et_pb_column_1_4 {
+        width: 47.875%;
+        margin-right: 1.5% !important;
+        margin-bottom: 20px !important;
+    }
+    .study_abroad_package ul li {
+        width: 31% !important;
+        margin: 0 1% 20px 0 !important;
+    }
+    .et_pb_gutters3 .visitvisa_icon_list .et_pb_column_1_5 {
+        width: 31.8%;
+        margin-right: 1.5% !important;
+        margin-bottom: 0px;
+    }
+    .visaprocess_info:before {
+        display: none;
+    }
+    .yaxis_unibase_txt .downloadevalution_btn {
+        margin: 0 15px 15px 15px;
+    }
+    .coaching_courses ul li img {
+        padding: 30px;
+    }
+    .coaching_courses ul li p br {
+        display: none;
+    }
+    .innerpage_banner_slider .et_pb_slide_description .et_pb_slide_title {
+        font-size: 34px;
+    }
+    .innerpage_banner_slider .et_pb_bg_layout_dark .et_pb_slide_content p {
+        font-size: 18px;
+        text-align: center;
+    }
+    .conciergetab_list .conciergetab .conciergetab_listinner {
+        padding: 0;
+    }
+    .conciergetab_list .r-tabs .r-tabs-accordion-title .r-tabs-anchor {
+        background: #f4f6f9;
+        padding: 8px 5px 8px 20px;
+        text-shadow: none;
+        font-size: 15px;
+        color: #000000;
+        font-weight: normal;
+        font-family: 'robotomedium';
+        border-radius: 0;
+        border-bottom: 1px solid rgb(215, 224, 241);
+    }
+    .conciergetab_list .conciergetab .conciergetab_list_cont .conciergetab_list_cont_img {
+        position: relative;
+        bottom: auto;
+        right: auto;
+        text-align: center;
+        margin: 20px 0 0 0;
+    }
+    .invest_whychooseus_info ul {
+        margin-right: -10px;
+        margin-left: -10px;
+    }
+    .invest_whychooseus_info ul li {
+        padding: 10px;
+    }
+    .invest_whychooseus_info ul li .invest_whychooseus_listinner {
+        padding: 20px 10px;
+    }
+    .ielschoosecourse_info .ielschoosecoursetab {
+        border: 1px solid #d7e0f1;
+    }
+    .ielschoosecourse_info .r-tabs .r-tabs-accordion-title .r-tabs-anchor {
+        background: none;
+        border-bottom: 1px solid #d7e0f1;
+    }
+    .myvalues {
+        margin: 10px auto 0 auto;
+    }
+    .contact_address_counterlist ul li {
+        margin: 5px 10px;
+        padding: 10px 15px;
+    }
+    .contact_address_counterlist ul li h6 {
+        margin: 0 0 0 10px;
+        font-size: 16px;
+    }
+    .contact_address_city_info_list {
+        border: 1px solid #d7e0f1;
+    }
+    .contact_address_city_info_list .r-tabs .r-tabs-accordion-title .r-tabs-anchor {
+        padding: 12px 15px;
+        color: #000000;
+        font-size: 16px;
+        text-transform: uppercase;
+        font-family: 'robotomedium';
+        text-shadow: none;
+        font-weight: normal;
+        position: relative;
+        background: none;
+        border-bottom: 1px solid #d7e0f1;
+        border-radius: 0;
+    }
+    .contact_address_city_list ul li {
+        -ms-flex: 0 0 33.33%;
+        flex: 0 0 33.33%;
+        max-width: 33.33%;
+    }
+    .visas_formlist {
+        max-width: 100%;
+        margin-top: 20px !important;
+    }
+    .australia_updates .level2 .level2_cont {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .custom_tiles .applynow_btn {
+        left: 30px;
+        bottom: 20px;
+    }
+    .banner_slider .banner_slider_listcont .applynow_btn {
+        display: none;
+    }
+    .singleopening_left {
+        width: 100%;
+        float: none;
+    }
+    .singleopening_right {
+        float: none;
+        width: 100%;
+        max-width: 100%;
+        padding: 30px 0;
+    }
+    .searchandfilter ul {
+        text-align: center;
+    }
+    .job_openings_filter .searchandfilter ul li,
+    .job_openings_filter .searchandfilter ul li:last-child {
+        margin: 10px;
+    }
+    .job_openings_filter .searchandfilter ul li label select.sf-input-select {
+        width: 200px;
+    }
+    .australiavisaresource_innerbanner h1 {
+        font-size: 34px;
+        padding: 60px 0;
+    }
+    .australiavisaresource_innertitle h2 {
+        font-size: 30px;
+        line-height: 32px;
+    }
+    .australiavisaresource_innertitle ul li a {
+        padding: 15px 10px;
+    }
+    .australiavisasolutionsicons_sec .australiavisaresource_innertitle h2 {
+        padding-top: 0;
+    }
+    .australiavisasolutionsicons_sec .et_pb_column_1_3 {
+        margin-bottom: 10px;
+    }
+    .visaresource_row .et_pb_image .et_pb_image_wrap {
+        max-width: 50%;
+    }
+    .coaching_result_top .coaching_result_topimg {
+        width: 100px;
+    }
+    .coaching_result_top .coaching_result_topcont {}
+    .coaching_result_top {
+        padding: 10px;
+    }
+    .coaching_result_top .coaching_result_topcont h6 {
+        font-size: 20px;
+    }
+    .et_pb_gutters3 .coaching_result_info .et_pb_column_1_3,
+    .et_pb_gutters3.et_pb_row .coaching_result_info .et_pb_column_1_3 {
+        width: 100%;
+        margin-right: 0;
+    }
+    .coaching_achievers_list {
+        font-size: 12px;
+    }
+    .visitcanada_banner_slider.et_pb_slider .et_pb_slide {
+        background-position: top center;
+    }
+    .pressandnews_txt {
+        padding: 0 15px;
+    }
+    .et_search_form_container .et-search-form {
+        left: inherit;
+        right: 0;
+    }
+    .main_nav_info #et_top_search {
+        margin: 0px 0 0 5px !important;
+    }
+    span.et_close_search_field {
+        left: inherit;
+        right: 0;
+    }
+    #ebcaptchainput {
+        margin-right: 10px;
+    }
+}
+
+@media(max-width:767px) {
+    .reviews_info ul {
+        display: inline-block;
+        padding-left: 0;
+    }
+    .reviews_info ul li {
+        width: 100% !important;
+        margin-left: 0 !important;
+    }
+    .footer_links ul li {
+        margin-bottom: 10px;
+    }
+    .reviews_info.visa_success_info ul li {
+        width: 100% !important;
+        margin: 10px 0 !important;
+    }
+    .form_section {
+        width: 100%;
+    }
+    .img_section {
+        display: none;
+    }
+    .breadcrumbs_sec .et_pb_row {
+        width: 100%;
+    }
+    .breadcrumbs_sec #breadcrumbs span {
+        font-size: 12px;
+    }
+    .sms_list {
+        display: inline-block;
+    }
+    .sms_list .sms_list_inner {
+        width: 50%;
+        float: left;
+    }
+    .sms_list .sms_list_inner:last-child {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .sms_list .sms_list_inner ul li {
+        width: auto;
+    }
+    .conciergetab_list_link {
+        position: relative;
+        bottom: auto;
+        right: auto;
+        text-align: center;
+        margin: 20px 0 0 0;
+        width: 100%;
+    }
+    .conciergetab_list_link a {
+        padding: 5px 20px;
+        font-size: 14px;
+    }
+    .yx_five .r-tabs-state-active .r-tabs-anchor {
+        color: #fff !important;
+        background: #eb2322 !important;
+    }
+    .things_next_prev .things_next_btn {
+        display: none;
+    }
+    .yx_five .yx_five_inner h3 {
+        text-align: left;
+        line-height: 28px;
+        padding-bottom: 20px;
+    }
+    .h-search-input,
+    .h-search-drop {
+        width: 100%;
+        float: inherit;
+        margin: 0;
+        text-align: inherit;
+    }
+    .h-search-input input,
+    .h-search-drop select {
+        width: 100%;
+    }
+    .h-search-btn {
+        margin: 0 auto;
+        width: 100%;
+    }
+    #login_signup_nav li,
+    #et-info-phone {
+        font-size: 12px;
+    }
+    .banner_slider .banner_slider_listimg {
+        height: 440px;
+    }
+    .inner_banner_info .banner_slider .banner_slider_listimg {
+        height: 360px;
+    }
+    #footer-widgets .footer-widget .fwidget,
+    #footer-widgets .footer-widget:nth-child(n) {
+        margin-bottom: 0 !important;
+    }
+    #main-footer .fwidget.widget_text {
+        width: 33% !important;
+    }
+    .innerpage_banner_slider .et_pb_bg_layout_dark .et_pb_slide_description {
+        min-height: 300px;
+        padding: 40px 0 0 0;
+    }
+    .innerpage_banner_slider .et_pb_slide_description .et_pb_slide_title {
+        font-size: 28px;
+    }
+    .invest_whychooseus_info ul {
+        margin-right: -10px;
+        margin-left: -10px;
+    }
+    .invest_whychooseus_info ul li {
+        padding: 10px;
+    }
+    .invest_whychooseus_info ul li .invest_whychooseus_listinner {
+        padding: 20px 10px;
+    }
+    .eligibility_check {
+        padding: 30px 20px;
+    }
+    .eligibility_txt ul li {
+        width: 31%;
+    }
+    .migrateabroad_txt {
+        max-width: 100%;
+        overflow: hidden;
+        overflow-x: scroll;
+    }
+    .migrateabroad_txt p {
+        font-size: 14px;
+    }
+    .coaching_courses ul {
+        margin-right: -10px;
+        margin-left: -10px;
+    }
+    .coaching_courses ul li {
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+        padding: 10px;
+    }
+    .ourlearningenvironment_list ul li {
+        -ms-flex: 0 0 33.33%;
+        flex: 0 0 33.33%;
+        max-width: 33.33%;
+    }
+    .worldclass_list ul li {
+        padding: 10px;
+        width: 32%;
+    }
+    .visa_countries ul li {
+        width: 31% !important;
+    }
+    .ielschoosecourse_info .r-tabs .r-tabs-panel {
+        padding: 20px;
+        min-height: inherit;
+    }
+    .ielschoosecourse_contlist ul li {
+        padding: 10px 5px;
+        width: 49%;
+    }
+    .contact_address_city_list ul li {
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .csr_banner_info {
+        padding: 40px 0 !important;
+    }
+    .job_openings_filter .searchandfilter ul li {
+        margin: 0;
+        padding: 10px;
+    }
+    .job_openings_filter .searchandfilter ul li:last-child {
+        margin: 0;
+    }
+    .job_openings_filter .searchandfilter ul li.sf-field-taxonomy-function,
+    .job_openings_filter .searchandfilter ul li.sf-field-taxonomy-location {
+        width: 49%;
+        text-align: left;
+    }
+    .job_openings_filter .searchandfilter ul li label {
+        display: block;
+    }
+    .job_openings_filter .searchandfilter ul li label select.sf-input-select {
+        width: 100%;
+    }
+    .job_openings_filter .searchandfilter ul li h4 {
+        display: block;
+        margin: 0 0 10px 0;
+    }
+    .job_openings_resultslist table {
+        width: 800px;
+    }
+    .ahmedabadsummary_list ul li .ahmedabadsummary_name {
+        float: none;
+        width: 100%;
+        text-align: left;
+    }
+    .ahmedabadsummary_list ul li .ahmedabadsummary_cont {
+        padding: 10px 0 0 0;
+    }
+    .ahmed_concierge_list {
+        width: 100%;
+    }
+    .ahmed_concierge_toplist.ahmed_concierge_list table tbody tr td {
+        border-right: 10px solid #fff;
+    }
+    .australiavisaresource_innerbanner h1 {
+        font-size: 32px;
+        padding: 50px 0 !important;
+    }
+    .australiavisaresource_innertitle h2 {
+        font-size: 26px;
+        line-height: 28px;
+    }
+    .australiavisaresource_innertitle ul li a {
+        padding: 12px 10px;
+    }
+    .visaresource_row {
+        padding: 30px 0;
+    }
+}
+
+@media(max-width:639px) {
+    .et-search-form {
+        left: inherit;
+    }
+    span.et_close_search_field {
+        left: inherit;
+        right: 10px;
+    }
+    .technicalevaluation_txt1 ul li {
+        width: 160px;
+        height: auto;
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .breadcrumbs_sec .et_pb_row {
+        width: 100%;
+    }
+    .breadcrumbs_sec #breadcrumbs span {
+        font-size: 12px;
+    }
+    .ssci_info ol li:last-child {
+        margin-top: 0;
+    }
+    .banner_slider .banner_slider_listcont .applynow_btn a {
+        padding: 0px 12px;
+        font-size: 10px;
+    }
+    .banner_slider_list_1 .banner_slider_listcont {
+        bottom: 18%;
+        left: 40%;
+    }
+    .banner_slider_list_2 .banner_slider_listcont {
+        bottom: 18%;
+        left: 40%;
+    }
+    .banner_slider_list_3 .banner_slider_listcont {
+        bottom: 18%;
+        left: 40%;
+    }
+    .banner_slider_list_4 .banner_slider_listcont {
+        bottom: 18%;
+        left: 40%;
+    }
+    .banner_slider_list_5 .banner_slider_listcont {
+        bottom: 18%;
+        left: 40%;
+    }
+    #post-19586 .et_pb_slide_0 {
+        background-position: -40px;
+        background-size: 120%;
+        background-color: inherit;
+    }
+    .login_signup_info,
+    .top_phone_txt {
+        display: block;
+    }
+    #et-info-phone {
+        margin-right: 0;
+        margin-bottom: 5px;
+        display: block;
+    }
+    .et_mobile_menu {
+        height: auto;
+    }
+    .banner_slider .banner_slider_listimg {
+        height: 320px;
+    }
+    .inner_banner_info .banner_slider .banner_slider_listimg {
+        height: 260px;
+    }
+    .banner_slider .banner_slider_listcont .applynow_btn {
+        padding: 0;
+    }
+    .whystudyabroad_info,
+    .settlemalta_info {
+        height: 160px;
+        padding: 20px;
+        display: none;
+    }
+    .custom_tiles {
+        height: 160px;
+        padding: 20px;
+    }
+    .home_country_list ul li {
+        width: 48%;
+        padding: 0;
+        margin: 0 5px 10px 0;
+    }
+    .home_country_list ul li .home_country_listinner {}
+    .lets_info .lets_txt,
+    .followus_info .followus_txt {
+        display: block;
+        padding: 0 0 10px 0;
+        text-align: center;
+    }
+    .footer-widget .fwidget {
+        width: 100% !important;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    #main-footer .title {
+        margin: 0 0 10px 0 !important;
+    }
+    #main-footer .menu-footer-channels-menu-container,
+    #main-footer .menu-footer-about-menu-container,
+    #footer-widgets .footer-widget .india_aus_addressinfo,
+    #footer-widgets .widget-odd {}
+    #footer-widgets .footer-widget .fwidget,
+    #footer-widgets .footer-widget:nth-child(n) {
+        margin-bottom: 30px !important;
+    }
+    #footer-widgets .footer-widget:nth-child(n) {
+        padding: 0 !important;
+    }
+    #main-footer .fwidget.widget_text {
+        width: 100% !important;
+    }
+    #et-footer-nav {
+        padding: 10px 0;
+    }
+    .bottom-nav {
+        text-align: center;
+        float: none;
+        width: 100%;
+        padding: 0 0 10px 0;
+    }
+    .dmca_img {
+        float: none;
+        width: 100%;
+        margin: 0;
+        text-align: center;
+    }
+    #footer-info {
+        font-size: 12px;
+    }
+    .getintouch_info {
+        padding: 20px;
+    }
+    .innerpage_banner_slider .et_pb_bg_layout_dark .et_pb_slide_description {
+        min-height: 220px;
+        padding: 20px 0 0 0;
+    }
+    .innerpage_banner_slider .et_pb_slide_description .et_pb_slide_title {
+        font-size: 24px;
+        margin: 0 0 10px 0;
+    }
+    .innerpage_banner_slider .et_pb_bg_layout_dark .et_pb_slide_content p {
+        font-size: 16px;
+    }
+    .innerpage_specialty_section {
+        padding-top: 30px !important;
+        padding-bottom: 30px !important;
+    }
+    .countries_txt ul li .countries_list {
+        padding: 10px 5px;
+    }
+    .countries_txt ul li .countries_list img {
+        margin: 0 0 10px 0;
+    }
+    .countries_txt ul li .countries_list p {
+        display: block;
+    }
+    .migrateabroad_txt h5,
+    .immigrationprocess_txt h5,
+    .countries_txt h5,
+    .faq_title h5,
+    .liststyle h5 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .technicalevaluation_txt h6,
+    .applytechnicalevaluation_txt h6,
+    .migrateabroad_txt h6,
+    .immigrationprocess_txt h6,
+    .introduction_txt h6 {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .applytechnicalevaluation_txt .applynow_btn,
+    .yaxis_unibase_txt .registernow_btn {
+        font-size: 16px;
+        padding: 10px 30px;
+    }
+    .immigrationprocess_txt ul li {
+        padding: 0 0 0 20px;
+    }
+    .introduction_country_list {
+        min-height: 320px;
+    }
+    .introduction_country_img_tit h6 {
+        display: block;
+        margin: 10px 0 0 0;
+    }
+    .study_abroad_package ul li {
+        width: 48% !important;
+    }
+    .invest_whychooseus_info ul li {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .et_pb_gutters3 .visitvisa_icon_list .et_pb_column_1_5 {
+        width: 47.8%;
+    }
+    .eligibility_txt ul li {
+        width: 48%;
+    }
+    .coaching_courses ul li p {
+        padding: 0;
+        font-size: 14px;
+    }
+    .ourlearningenvironment_list ul li {
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .ourlearningenvironment_list ul li a {
+        padding: 20px 10px;
+    }
+    .worldclass_list ul li {
+        width: 49%;
+    }
+    .conciergetab_list .conciergetab .conciergetab_list_cont h5 {
+        margin: 0 0 10px 0;
+        font-size: 16px;
+    }
+    .visa_countries ul li {
+        width: 48% !important;
+    }
+    .ielschoosecourse_contlist ul li {
+        width: 100%;
+    }
+    .ielschoosecourse_cont h6 {
+        margin: 0 0 20px 0;
+    }
+    .missionstatement_info,
+    .myvalues {
+        padding: 50px 30px !important;
+    }
+    .ssci_info ol li {
+        width: 100%;
+        padding: 0;
+    }
+    .speaktoourconsultants_list ul li {
+        padding: 0 0 0 50px;
+    }
+    .internationalphoneno_list ul li {
+        padding: 2px 0 2px 50px;
+    }
+    .contact_address_city_list ul li {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .custom_tiles .applynow_btn {
+        left: 20px;
+        bottom: 20px;
+    }
+    .singleopening_left .entry-title {
+        font-size: 24px;
+    }
+    .job_openings_filter h3,
+    .results_info h4 {
+        margin: 0 0 20px 0;
+        font-size: 24px;
+    }
+    .ahmed_eligibility_list ul li {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .australiavisaresource_innerbanner h1 {
+        font-size: 28px;
+        padding: 40px 0;
+    }
+    .australiavisaresource_innertitle h2 {
+        font-size: 26px;
+        line-height: 28px;
+    }
+    .australiavisaresource_innerbanner h1 {
+        font-size: 26px;
+        padding: 30px 0 !important;
+    }
+    .australiavisaresource_innertitle h2 {
+        font-size: 24px;
+        line-height: 26px;
+    }
+    .australiavisaresource_innertitle h3 {
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .contactdynamiccode_rmspace {
+        padding: 15px 0 0 0;
+    }
+}
+
+@media(max-width:479px) {
+    .banner_slider .banner_slider_listimg {
+        height: 220px;
+        background-size: 85%;
+    }
+    .inner_banner_info .banner_slider .banner_slider_listimg {
+        height: 170px;
+    }
+    .settlemalta_info .settlemalta_img {
+        width: 70px;
+    }
+    .settlemalta_info .settlemalta_cont {
+        padding: 0 0 0 80px;
+    }
+    .settlemalta_info .settlemalta_cont .applynow_btn {
+        padding: 6px 15px;
+    }
+    .banner_slider .banner_slider_listcont .applynow_btn {
+        padding: 0;
+    }
+    .banner_slider .banner_slider_listcont .applynow_btn a {
+        padding: 0px 12px;
+        font-size: 10px;
+    }
+    .banner_slider_list_1 .banner_slider_listcont {
+        bottom: 18%;
+        left: 40%;
+    }
+    .banner_slider_list_2 .banner_slider_listcont {
+        bottom: 18%;
+        left: 40%;
+    }
+    .banner_slider_list_3 .banner_slider_listcont {
+        bottom: 18%;
+        left: 40%;
+    }
+    .banner_slider_list_4 .banner_slider_listcont {
+        bottom: 18%;
+        left: 40%;
+    }
+    .banner_slider_list_5 .banner_slider_listcont {
+        bottom: 18%;
+        left: 40%;
+    }
+    .banner_slider .swiper-pagination {
+        bottom: 10px;
+    }
+    .innerpage_banner_slider .et_pb_bg_layout_dark .et_pb_slide_description {
+        min-height: 180px;
+    }
+    .technicalevaluation_txt ul li,
+    .technicalevaluation_txt ul li:last-child {
+        display: block;
+        margin: 10px auto;
+        width: 100%;
+    }
+    .countries_txt ul li {
+        float: none;
+        display: inline-block;
+        vertical-align: top;
+        width: 49%;
+    }
+    .et_pb_gutters3 .introduction_country_info .et_pb_column_1_4,
+    .et_pb_gutters3 .vistvisa_whychooseus_list .et_pb_column_1_4,
+    .et_pb_gutters3 .visas_whychooseus_info .et_pb_column_1_4 {
+        margin-right: 0 !important;
+        margin-bottom: 15px !important;
+    }
+    .introduction_country_list {
+        min-height: inherit;
+        padding: 20px;
+    }
+    .study_abroad_package ul li {
+        width: 100% !important;
+        margin: 0 0 20px 0 !important;
+    }
+    .visaprocess_list .et_pb_blurb_container h4 {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .eligibility_txt ul li {
+        width: 100%;
+    }
+    .yaxis_unibase_txt .downloadevalution_btn {
+        font-size: 14px;
+    }
+    .coaching_courses ul {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .coaching_courses ul li {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .ourlearningenvironment_list ul li {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .worldclass_list ul li .worldclass_listinner {
+        padding: 10px;
+    }
+    .innerpage_banner_slider .et_pb_slide_description .et_pb_slide_title {
+        font-size: 20px;
+    }
+    .innerpage_banner_slider .et_pb_bg_layout_dark .et_pb_slide_content p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .visa_countries ul li {
+        width: 100% !important;
+    }
+    .australiavisaresource_innertitle h2 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+    .australiavisaresource_innertitle ul li {
+        margin: 3px 0;
+        width: 100%;
+        display: block;
+    }
+    .visaresource_row {
+        padding: 20px 0;
+    }
+    .australiavisaresource_innertitle ul {
+        margin: 0 0 10px 0;
+    }
+    .pressandnews_title .et_pb_row .et_pb_column {
+        margin-bottom: 0 !important;
+    }
+    .pressandnews_title h1 {
+        padding: 0 !important;
+        margin-bottom: 0;
+    }
+    .new_pressnewslist_sec .et_pb_column .et_pb_row_inner {
+        border: 0;
+        padding-bottom: 0;
+        margin-bottom: 15px;
+    }
+    .new_pressnewslist_sec .et_pb_column .et_pb_image {
+        border: 1px solid #d6d6d6;
+    }
+    .new_pressnewslist_sec .pressandnews_txt {
+        padding: 0px;
+    }
+}
+
+@media(max-width:450px) {
+    .job_openings_filter .searchandfilter ul li.sf-field-taxonomy-function,
+    .job_openings_filter .searchandfilter ul li.sf-field-taxonomy-location {
+        width: 100%;
+    }
+    .australiavisaresource_innerbanner h1 {
+        font-size: 24px;
+        padding: 25px 0 !important;
+    }
+    .australiavisaresource_innertitle h2 {
+        font-size: 18px;
+        line-height: 20px;
+        text-align: center;
+    }
+    .australiavisaresource_innertitle h3 {
+        font-size: 16px;
+        line-height: 18px;
+        text-align: center;
+    }
+    .coaching_result_top .coaching_result_topimg {
+        float: none;
+        margin: 0 auto;
+    }
+    .coaching_result_top .coaching_result_topcont {
+        padding: 20px 0 0 0;
+        text-align: center;
+    }
+    .et_header_style_left .et-search-form,
+    .et_header_style_split .et-search-form,
+    form.et-search-form {
+        width: 100% !important;
+        max-width: 100% !important;
+        background: #fff !important;
+    }
+    .et_search_form_container input,
+    .et-search-form input {
+        color: #000;
+    }
+    span.et_close_search_field:after {
+        color: #000 !important;
+    }
+}
+
+@media(max-width:360px) {
+    .innerpage_banner_info .inner_getintouch_info .getstart_btn {
+        margin: 0 auto;
+        display: block;
+        width: 100%;
+        max-width: 180px;
+    }
+}
